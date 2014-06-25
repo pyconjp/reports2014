@@ -5,7 +5,9 @@
 はじめに
 ========
 
-TODO ロゴと https://pycon.jp/2014/ へのリンクを入れる。
+.. image:: /_static/pycon2014-logo.*
+   :target: https://pycon.jp/2014/
+
 
 TODO このレポートの趣旨の説明を書く(メディアチーム)
 

@@ -15,9 +15,40 @@ PyCon JP 2014の魅力を多くの人に知っていただくために、この�
 開催概要
 ========
 
-TODO 担当：メディアチーム
+メディアチームの筒井です。開催概要について紹介します。
 
-期限：2014-07-31(これはレビュー完了の日です。原稿作成はこの2-3日前に終えるようにしてください)
+.. list-table::
+   :widths: 30 70
+   :stub-columns: 1
+
+   * - チュートリアル
+     - 2014-09-12(金)
+   * - カンファレンス
+     - 2014-09-13(土)-14(日)
+   * - 開発スプリント
+     - 2014-09-15(月・祝)
+   * - 会場
+     - `プラザ平成 <https://pycon.jp/2014/venue/>`_  (東京)
+   * - テーマ
+     - Pythonで再発見
+   * - 参加者数(予定)
+     - 500
+   * - 参加費
+     - - EarlyBird(早割) 7,500円
+       - 学生 5,000円
+       - 一般 10,000円
+   * - チケット購入先
+     - http://pyconjp.connpass.com/event/6300/
+   * - 運営
+     - `PyCon JP 実行委員会`_ PyCon JP 2014 運営チーム
+   * - 連絡先
+     - 2014@pycon.jp
+   * - Webサイト
+     - https://pycon.jp/2014/
+   * - Twitterハッシュタグ
+     - `#pyconjp <https://twitter.com/search?q=%23pyconjp&src=typd>`_
+
+.. _`PyCon JP 実行委員会`: http://www.pycon.jp/committee.html
 
 今年の見どころ
 ==============

@@ -11,12 +11,14 @@
 
 .. image:: /_static/ryu22e.jpg
 
-本業はWebエンジニア。メイン言語はJava，PHP。最近は，（人手不足でやむなく）インフラに近いこともやっている。
+本業はWebエンジニア。メイン言語はJava, PHP, Python。
 
-Pythonを学んだのは2011年ごろ。書きやすさに魅かれてコミュニティに参加するようになり，いつの間にかPyCon APACのスタッフを務めるほど嵌ってしまった。
+Pythonを学んだのは2011年ごろで、Python歴はまだ浅いのですが、書きやすさから今では一番お気に入りの言語になりました。
+
+最近、仕事でも念願のPython(Django)デビューができました。(PyCon JPスタッフ活動のおかげかも？)
 
 - Twitter: `@ryu22e <https://twitter.com/ryu22e>`_
-- Blog: `ryu22eBlog <http://blog.livedoor.jp/ryu22e/>`_
+- Blog: `ryu22eBlog <http://ryu22e.org/>`_
 
 神谷 亮一郎 (カミヤ リョウイチロウ)
 ========================================

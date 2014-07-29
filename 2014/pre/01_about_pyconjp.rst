@@ -109,10 +109,36 @@ PyCon JP 2014 のテーマは「Python で再発見 / Rediscover with Python」�
 基調講演
 ========
 
-TODO 担当：増田さん
+プログラムチームの清田です。
 
-期限：2014-07-31(これはレビュー完了の日です。原稿作成はこの2-3日前に終えるようにしてください)
+まず海外からのキーノートスピーカー、Kenneth Reitz氏を紹介します。
 
+Website: http://www.kennethreitz.org/
+
+.. image:: /_static/kenneth.jpg
+   :width: 300px
+   :alt: Kenneth Reitz
+
+Kenneth Reitz氏はクラウドアプリケーションプラットフォーム(PaaS)として有名な `Heroku <http://heroku.com/>`_ のPythonプロダクトオーナーであり、Python Software Foundationのフェローでもあります。
+
+Pythonユーザの中でも多くの方がご存知であろうHTTPクライアントライブラリ `requests <http://docs.python-requests.org/en/latest/>`_ は、彼が手掛けている数あるオープンソース・ソフトウェアのうちのひとつです。
+
+彼自身のWebサイトによれば、彼はソフトウェア開発、写真撮影、音楽作成を活動の焦点としているそうで、Webサイト上でも撮影した写真や作成した音楽、podcastが公開され、自由に鑑賞することができます。
+
+今回、PyCon JP 2014キーノートの招待に対し、快く応じてくださいました。
+
+次に、国内からのキーノートスピーカーは西尾泰和氏です。
+
+Website: http://www.nishiohirokazu.org/ja.html
+
+.. image:: /_static/nishio.jpg
+   :width: 300px
+   :alt: Hirokazu Nishio
+
+西尾泰和氏はサイボウズ・ラボ株式会社で知的生産性を高めるソフトウェアの研究・開発に従事する
+エンジニアであり、同時に「 `Jythonプログラミング <http://www.amazon.co.jp/dp/4839922829>`_ 」（毎日コミュニケーションズ）や「 `コーディングを支える技術 <http://www.amazon.co.jp/dp/477415654X>`_ 」（技術評論社）といった書籍を著す著者でもあります。先日も 「 `word2vecによる自然言語処理 <http://www.oreilly.co.jp/books/9784873116839/>`_ 」（オライリー・ジャパン）という著書を電子書籍で出版されたばかりです。
+
+また本業の傍ら、過去３度に亘ってIPA主催の「セキュリティ＆プログラミングキャンプ」において講師を務められたほか、昨年は母校である灘高等学校・中学校において「 `キャリア戦略論－人・生き方・働き方の多様性 <http://www.slideshare.net/nishio/ss-27390660>`_ 」という演題で講演もされています。
 
 まとめと次回
 ============

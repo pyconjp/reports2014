@@ -17,4 +17,5 @@ Welcome to PyCon Singapore 2014 report's documentation!
 .. toctree::
    :maxdepth: 2
 
-
+   01_day1
+   02_day2

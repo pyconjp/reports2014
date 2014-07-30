@@ -109,7 +109,7 @@ PyCon JP 2014 のテーマは「Python で再発見 / Rediscover with Python」�
 基調講演
 ========
 
-プログラムチームの清田です。
+メディアチームの筒井です。
 
 まず海外からのキーノートスピーカー、Kenneth Reitz氏を紹介します。
 

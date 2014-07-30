@@ -33,3 +33,16 @@ PyCon APAC 2013 in Japan スタッフ。Sweet Remedy Inc.で投資銀行向け�
 :Twitter: `@ryokamiya <https://twitter.com/ryokamiya>`_
 :サイト: `http://www.sweetremedy.org <http://www.sweetremedy.org>`_
 :プロフィール: `LinkedInページ <http://www.linkedin.com/pub/ryoichiro-kamiya/4/9ba/959>`_
+
+清田 史和 (キヨタ フミカズ)
+========================================
+
+.. image:: /_static/kiyota.jpg
+   :width: 200
+
+PyCon JP 2012 2013 スタッフやってました。
+
+SnapDish というサービスを開発・運営しています。仕事では Objective-C や Python を書く事が多いです。後は、AWS上でのインフラの運用構築なども仕事でやっています。PyCon に関わって、新たな技術や今までに会う事が出来なかった人に出会えてとても刺激になっています。今年は、プログラムリーダーという責任重大なポジションで関わる事になり内心不安ですが、全う出来るよう頑張りたいと考えています。
+
+:Twitter: `@kiyotaman <https://twitter.com/kiyotaman>`_
+:サイト: `http://snapdish.co <http://snapdish.co>`_

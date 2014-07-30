@@ -19,3 +19,4 @@ Welcome to PyCon Singapore 2014 report's documentation!
 
    01_day1
    02_day2
+   authors

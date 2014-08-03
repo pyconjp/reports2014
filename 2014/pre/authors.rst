@@ -59,3 +59,17 @@ SnapDish というサービスを開発・運営しています。仕事では O
 - Twitter: `@takanory <https://twitter.com/takanory>`_
 - Facebook: `鈴木 たかのり <https://www.facebook.com/takanory.net>`_
 - Webサイト: `takanory.net <http://takanory.net/>`_
+
+長内 歩(オサナイ アユム)
+==============================
+
+.. image:: /_static/walker.png
+
+PyCon JP 2014でスタッフ初参加。
+
+広告系サービスの全文検索エンジンを保守・運用しつつPythonで各種ログを解析しています。他にもプレゼン用スライドや様々なドキュメントをSphinxで作るなどPythonとベッタリ。最近はサウンドプログラミングができないかと試行錯誤中。
+
+普段は自転車で中距離を走ったりピアノやベースを弾くなどしています。近々 `Pythonボルダリング部 <http://kabepy.connpass.com/>`_ (#kabepy)への参加予定。
+
+- Twitter: `@redfigure <https://twitter.com/redfigure>`_
+- Webサイト: `jarfarm.com <http://www.jarfarm.com/>`_

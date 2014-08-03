@@ -18,6 +18,12 @@ Contents:
     - `PyCon APAC 2013 in Japan 開催前レポート　～第2回 注目のセッションとチュートリアルデイ （1/2）：CodeZine <http://codezine.jp/article/detail/7359>`_
     - `PyCon APAC 2013 in Japan 開催前レポート　～第3回 パーティの紹介：CodeZine <http://codezine.jp/article/detail/7379>`_
 
+- PyCon APAC 2013 in Japan の写真
+
+  - `PyCon APAC 2013 day1 <https://www.flickr.com/photos/pyconjp/sets/72157635796851986/>`_
+  - `PyCon APAC 2013 day2 <https://www.flickr.com/photos/pyconjp/sets/72157635797238403/>`_
+  - `PyCon APAC 2013 sprint <https://www.flickr.com/photos/pyconjp/sets/72157635897221385/>`_
+
 
 .. toctree::
    :maxdepth: 2

@@ -73,3 +73,16 @@ PyCon JP 2014でスタッフ初参加。
 
 - Twitter: `@redfigure <https://twitter.com/redfigure>`_
 - Webサイト: `jarfarm.com <http://www.jarfarm.com/>`_
+
+関根 裕紀(セキネ ヒロノリ)
+==============================
+
+.. image:: /_static/sekine.jpg
+   :width: 200
+
+アライドアーキテクツ株式会社所属。ソフトウェアエンジニア。PyCon JP 2014 スタッフ。
+
+複数のスタートアップにて，様々なWebサービスの開発に携わったあと、 アライドアーキテクツ株式会社に入社。業務では主にWebアプリケーション開発を担当。 5年ほど前にPythonを使用して以来，Pythonが好き。 最近は並行処理や非同期プログラミングに興味がある。
+
+- Twitter: `@checkpoint <https://twitter.com/checkpoint>`_
+

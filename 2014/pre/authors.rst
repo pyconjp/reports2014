@@ -86,3 +86,14 @@ PyCon JP 2014でスタッフ初参加。
 
 - Twitter: `@checkpoint <https://twitter.com/checkpoint>`_
 
+小宮 友美(コミヤ トモミ)
+==============================
+
+.. image:: /_static/komiya.jpg
+   :width: 200
+
+カンファレンスやセミナー、勉強会などのイベント運営に関心興味があり、各種イベントにて時折お手伝いをしています。
+PyConJPにおいては、今回からスタッフになりました :-)
+好きな事は、製パンや旅行、美味しいものの食べ歩き。Python使いの方々が不定期に開催する「けしからん」という名の美味しいものを食べにいく会に顔出したりもしてます。
+
+- Twitter: `@tmmkr <https://twitter.com/tmmkr>`_

@@ -44,7 +44,7 @@ PyCon JP 2014では、「Python で再発見(英語テーマ: Rediscover with Py
    * - 会場
      - - チュートリアル: `市ケ谷健保会館・会議室 <http://www.its-kenpo.or.jp/fuzoku/kaigi/ichigaya.html>`_ (東京)
        - カンファレンス: `プラザ平成 <https://pycon.jp/2014/venue/>`_  (東京)
-       - 開発スプリント: `グリー株式会社 <http://corp.gree.net/jp/ja/corporate/location/>`_ (東京)
+       - 開発スプリント: `日本マイクロソフト株式会社 <http://www.microsoft.com/ja-jp/mscorp/branch/sgt.aspx>`_ (東京)
    * - テーマ
      - - 日本語: Pythonで再発見
        - 英語: Rediscover with Python

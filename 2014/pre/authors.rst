@@ -97,3 +97,16 @@ PyConJPにおいては、今回からスタッフになりました :-)
 好きな事は、製パンや旅行、美味しいものの食べ歩き。Python使いの方々が不定期に開催する「けしからん」という名の美味しいものを食べにいく会に顔出したりもしてます。
 
 - Twitter: `@tmmkr <https://twitter.com/tmmkr>`_
+
+川田 裕貴(カワタ ヒロタカ)
+==============================
+
+.. image:: /_static/kawata.jpg
+   :width: 200
+
+筑波大学大学院 システム情報工学研究科 コンピュータサイエンス専攻に在学中。
+学生の傍ら、PyCon JP のプログラムチームのスタッフを初めて2年目です。
+普段は、CPU の世界や OS など、低レイヤーな世界に生息しています。
+
+- Twitter: `@hktechno <https://twitter.com/hktechno>`_
+- Facebook: `川田 裕貴 <https://www.facebook.com/hktechno>`_

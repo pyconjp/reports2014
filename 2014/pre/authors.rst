@@ -110,3 +110,11 @@ PyConJPにおいては、今回からスタッフになりました :-)
 
 - Twitter: `@hktechno <https://twitter.com/hktechno>`_
 - Facebook: `川田 裕貴 <https://www.facebook.com/hktechno>`_
+
+ナツ
+====
+細かいところが気になる性分から、気付いた時にはゲリラ的テスト屋さんに。
+自身はPython使いではありませんが、彼らの作ったプログラムに愛の突っ込みを入れる日々を過ごしています。
+PyConJPでは、会場担当を引き受けて3年目になります。今年は担当範囲が広がって若干悲鳴気味。
+
+- Twitter: `@natsu_bm <https://twitter.com/natsu_bm>`_

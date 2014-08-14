@@ -54,7 +54,7 @@ PyCon JP 2014では、参加者の方々に快適なインターネット接続�
 大きなイベントやカンファレンスでは、それ専用に一時的なNOCを設置することがある。 
 
 
-.. image: /_static/pyconjp2014_network_layout.jpg
+.. image:: /_static/pyconjp2014_network_layout.jpg
    :alt: PyConJP2014ネットワーク構成図
 
 PyCon NOCチームのミッションと課題

@@ -131,3 +131,8 @@ PyConJPでは、会場担当を引き受けて3年目になります。今年は
 
 - Twitter: `@taka_stack <https://twitter.com/taka_stack>`_
 
+Kosei Kitahara(キタハラ コウセイ)
+====================================
+株式会社Vettl所属。
+
+Web 系なエンジニア。AWS, Docker, Python, Django あたりが好き。仕事では主に Python を使ったサーバサイドアプリの開発をしています。

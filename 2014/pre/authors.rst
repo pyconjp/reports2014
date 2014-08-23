@@ -113,6 +113,10 @@ PyCon JPにおいては、今回からスタッフになりました :-)
 
 ナツ
 ====
+
+.. image:: /_static/natsu.jpg
+   :width: 200
+
 細かいところが気になる性分から、気付いた時にはゲリラ的テスト屋さんに。
 自身はPython使いではありませんが、彼らの作ったプログラムに愛の突っ込みを入れる日々を過ごしています。
 PyCon JPでは、会場担当を引き受けて3年目になります。今年は担当範囲が広がって若干悲鳴気味。
@@ -133,11 +137,24 @@ PyCon JPでは、会場担当を引き受けて3年目になります。今年�
 
 Kosei Kitahara(キタハラ コウセイ)
 ====================================
-株式会社Vettl所属。
+
+.. image:: /_static/surgo.jpg
+   :width: 200
+
+株式会社 Vettl 所属。Vettl は PyCon へスポンサーとしてもしています。
 
 Web 系なエンジニア。AWS, Docker, Python, Django あたりが好き。仕事では主に Python を使ったサーバサイドアプリの開発をしています。
 
+- Twitter: `@Surgo <https://twitter.com/Surgo>`_
+- Facebook: `Kosei Kitahara <https://www.facebook.com/Surgo>`_
 
 水野 真璃（みずの まり）
 ====================================
+
+.. image:: /_static/mmznn.jpg
+   :width: 200
+
+
 PyCon JPにスタッフとして途中参加しました。普段はインフラ系の営業やっているので Python は書きませんが、Python ボルダリング部で登っています。
+
+- Facebook: `水野 真璃 <https://www.facebook.com/profile.php?id=100004466191863>`_

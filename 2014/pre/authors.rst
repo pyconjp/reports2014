@@ -141,7 +141,7 @@ Kosei Kitahara(キタハラ コウセイ)
 .. image:: /_static/surgo.jpg
    :width: 200
 
-株式会社 Vettl 所属。Vettl は PyConJP 2014 へスポンサーとしても参加しています。
+株式会社 Vettl 所属。Vettl は PyCon JP 2014 へスポンサーとしても参加しています。
 
 Web 系なエンジニア。AWS, Docker, Python, Django あたりが好き。仕事では主に Python を使ったサーバサイドアプリの開発をしています。
 

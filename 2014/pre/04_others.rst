@@ -58,23 +58,26 @@ Guidebookの便利な使い方について解説します。
 
 まず、Guidebookを使うと、PyCon JP 2014に関する情報を全て確認できます。
 
-スケジュールの一覧、
+例えば、こんな情報があります。
 
-.. image:: /_static/guidebook_1.png
+.. figure:: /_static/guidebook_1.png
    :width: 300px
    :alt: スケジュールの一覧
 
-会場までの地図、
+スケジュールの一覧
 
-.. image:: /_static/guidebook_2.png
+.. figure:: /_static/guidebook_2.png
    :width: 300px
    :alt: 会場までの地図
 
-スピーカーの一覧などが確認できます。
+会場までの地図
 
-.. image:: /_static/guidebook_3.png
+
+.. figure:: /_static/guidebook_3.png
    :width: 300px
    :alt: スピーカーの一覧
+
+スピーカーの一覧
 
 変更があった場合もすぐ反映されます。
 

@@ -122,7 +122,7 @@ iPhoneまたはAndroidのブラウザから、以下のバナーをタップし�
    :width: 300px
    :alt: Guidebookインストール方法
 
-画面下の「Download on the App Store」をタップすると、Guidebookのインストール画面が表示されます。ここから、Guidebookをインストールしてください。
+画面下の「Download on the App Store(Androidでは別のアイコンが表示されます)」をタップすると、Guidebookのインストール画面が表示されます。ここから、Guidebookをインストールしてください。
 
 PyCon JP 2014のスケジュールを見るには
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

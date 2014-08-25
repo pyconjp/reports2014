@@ -140,7 +140,7 @@ iPhoneの場合、画面下の「ガイドをダウンロード」をタップ�
    :width: 300px
    :alt: Guidebookスケジュール検索画面の立ち上げ(iPhone)
 
-Andoridの場合、画面右上に下向きの矢印のアイコンがあるので、そこをタップします
+Andoridの場合、画面右上に下向きの矢印のアイコンがあるので、そこをタップします。
 
 .. image:: /_static/guidebook_how_to_use_android.png
    :width: 300px

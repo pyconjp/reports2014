@@ -1,10 +1,10 @@
-.. PyCon APAC 2013 in Japan 開催前レポート documentation master file, created by
+.. PyCon JP 2014 開催前レポート documentation master file, created by
    sphinx-quickstart on Mon Aug  5 22:32:30 2013.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PyCon APAC 2013 in Japan 開催前レポート's documentation!
-===================================================================
+Welcome to PyCon JP 2014 in Japan 開催前レポート's documentation!
+=================================================================
 
 Contents:
 

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# PyCon APAC 2013 in Japan 開催前レポート documentation build configuration file, created by
+# PyCon JP 2014 開催前レポート documentation build configuration file, created by
 # sphinx-quickstart on Mon Aug  5 22:32:30 2013.
 #
 # This file is execfile()d with the current directory set to its containing dir.
@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'PyCon APAC 2013 in Japan 開催前レポート'
+project = u'PyCon JP 2014 開催前レポート'
 copyright = u'2013, PyCon APAC Team'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -167,7 +167,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'PyConAPAC2013inJapandoc'
+htmlhelp_basename = 'pyconjp2014doc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -186,7 +186,7 @@ latex_elements = {
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'PyConAPAC2013inJapan.tex', u'PyCon APAC 2013 in Japan 開催前レポート Documentation',
+  ('index', 'pyconjp2014.tex', u'PyCon JP 2014 開催前レポート Documentation',
    u'PyCon APAC Team', 'manual'),
 ]
 
@@ -216,7 +216,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'pyconapac2013injapan', u'PyCon APAC 2013 in Japan 開催前レポート Documentation',
+    ('index', 'pyconjp2014', u'PyCon JP 2014 開催前レポート Documentation',
      [u'PyCon APAC Team'], 1)
 ]
 
@@ -230,8 +230,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'PyConAPAC2013inJapan', u'PyCon APAC 2013 in Japan 開催前レポート Documentation',
-   u'PyCon APAC Team', 'PyConAPAC2013inJapan', 'One line description of project.',
+  ('index', 'pyconjp2014', u'PyCon JP 2014 開催前レポート Documentation',
+   u'PyCon APAC Team', 'pyconjp2014', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -251,7 +251,7 @@ texinfo_documents = [
 # -- Options for Epub output ---------------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'PyCon APAC 2013 in Japan 開催前レポート'
+epub_title = u'PyCon JP 2014 開催前レポート'
 epub_author = u'PyCon APAC Team'
 epub_publisher = u'PyCon APAC Team'
 epub_copyright = u'2013, PyCon APAC Team'

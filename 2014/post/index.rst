@@ -15,7 +15,7 @@ Contents:
    02_venue_team
    03_media_team
    04_jimukyoku_and_general_overview
-
+   authors
 
 
 Indices and tables

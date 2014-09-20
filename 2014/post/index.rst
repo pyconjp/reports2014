@@ -11,8 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   01_greeting_and_program_team
-   02_venue_team
+   01_greeting_and_venue_team
+   02_program_team
    03_media_team
    04_jimukyoku_and_general_overview
    authors

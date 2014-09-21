@@ -25,6 +25,7 @@ Contents:
   - `PyCon JP 2014 day1 Tutorial - an album on Flickr <https://www.flickr.com/photos/pyconjp/sets/72157647111767068/>`_
   - `PyCon JP 2014 day2 Conference - an album on Flickr <https://www.flickr.com/photos/pyconjp/sets/72157647184237569/>`_
   - `PyCon JP 2014 day3 Conference - an album on Flickr <https://www.flickr.com/photos/pyconjp/sets/72157647216509890/>`_
+  - `PyCon JP 2014 day4 Sprint - an album on Flickr <https://www.flickr.com/photos/pyconjp/sets/72157647739640505/>`_
 
 .. toctree::
    :maxdepth: 2

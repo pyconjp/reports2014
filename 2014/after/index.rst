@@ -30,6 +30,10 @@ Contents:
   - `PyCon JP 2014 day3 Conference - an album on Flickr <https://www.flickr.com/photos/pyconjp/sets/72157647216509890/>`_
   - `PyCon JP 2014 day4 Sprint - an album on Flickr <https://www.flickr.com/photos/pyconjp/sets/72157647739640505/>`_
 
+- PyCon JP 2014の動画
+
+  - `PyCon Japan 2014 <https://www.youtube.com/playlist?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5/>`_
+
 .. toctree::
    :maxdepth: 2
 

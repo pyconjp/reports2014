@@ -145,9 +145,11 @@ Kenneth Reitz氏（２） (c) PyCon JP
 西尾泰和氏（２） (c) PyCon JP
 
 スライド
+
 * http://www.slideshare.net/nishio/pyconjp-keynote-speach-japanese-version
 
 動画
+
 * https://www.youtube.com/watch?v=3AVt6A7qaOg&list=UUxNoKygeZIE1AwZ_NdUCkhQ
 
 

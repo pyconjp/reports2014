@@ -111,6 +111,19 @@ PyCon JPにおいては、今回からスタッフになりました :-)
 - Twitter: `@hktechno <https://twitter.com/hktechno>`_
 - Facebook: `川田 裕貴 <https://www.facebook.com/hktechno>`_
 
+劉　朗（リュウロウ）
+==============================
+
+.. image:: /_static/didornot.jpg
+   :width: 200
+
+東北大学大学院　情報科学研究科　情報基礎科学専攻に在学中。
+去年日本で留学に来てから、研究のためにPythonを学んで始まります。インターネットからPyCon JPというイベントを知りました。
+そしてPyCon JPのスタッフを募集しました。好きな事は旅行やサッカーです。
+
+- Twitter: `@liulang24 <https://twitter.com/liulang24>`_
+- Facebook: `Lang Liu <https://www.facebook.com/liulang.24>`_
+
 ナツ
 ====
 

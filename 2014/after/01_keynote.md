@@ -2,7 +2,7 @@
 
 ## はじめに
 
-9月12日（金）～ 16日（月）の4日間にわたり、下記の会場においてPyCon JP 2014が開催されました。
+9月12日（金）～ 16日（月）の4日間にわたり、下記の会場において[PyCon JP 2014](https://pycon.jp/2014/)が開催されました。
 
 * 市ケ谷健保会館・会議室（チュートリアル）
 * 東京国際交流館プラザ平成（カンファレンス）
@@ -11,15 +11,25 @@
 ![オープニング](https://farm4.staticflickr.com/3865/15292487901_e6c44930a3_z.jpg)
 オープニング (c) PyCon JP
 
-開催期間中は、チュートリアル、キーノート、セッション、LT、パーティ、スプリントなど本当にたくさんのイベントが行われました。本記事では4回にわたって、PyCon JP 2014の模様をお伝えします。第1回目の今回は、PyConJPの紹介とキーノートの模様をお伝えします。
+開催期間中は、チュートリアル、キーノート、セッション、LT、パーティ、スプリントなど本当にたくさんのイベントが行われました。本レポートでは4回にわたって、PyCon JP 2014の模様をお伝えします。第1回目の今回は、PyConJPの紹介とキーノートの模様をお伝えします。
 
 ## PyCon JP 2014とは
 
-PyConとは、日本を含む世界各国で開催されており、Pythonユーザーが集まり、Pythonに関する知識を共有したり、交流を深めるためのイベントです。PyCon JP は日本で開催されるカンファレンスで、毎年規模が大きくなっており、今年は500人以上の参加者がありました。今年は「Python で再発見 - Rediscover with Python」をテーマとして開催されました。
+PyConとは、日本を含む世界各国で開催されており、Pythonユーザーが集まり、Pythonに関する知識を共有したり、交流を深めるためのイベントです。PyCon JP は日本で開催されるカンファレンスで、毎年規模が大きくなっており、日本を含む世界各国から参加者が集まる大きなイベントです。今年は **「Python で再発見 - Rediscover with Python」** をテーマとして開催され、500人以上の参加者が集まりました。
+
+## キーノート & セッション
+
+PyCon JP 2014ではYouTube Liveによってすべてのセッションが生放送され、またセッションの録画をYouTubeで見ることができるようになっています。
+
+### PyCon Japan 2014の動画
+
+* https://www.youtube.com/playlist?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5
+
 
 ## 1日目基調講演 Kenneth Reitz氏 Python 2.7 and Python 3: A Sacred Love Story
 
-初日の基調講演はKenneth Reitz氏でした。Kenneth Reitz氏は、HerokuのPythonプロダクトオーナーであり、Python Software Foundationのフェローです。
+1日日の基調講演はKenneth Reitz氏でした。Kenneth Reitz氏は、HerokuのPythonプロダクトオーナーであり、Python Software Foundationのフェローです。
+まずは自己紹介として、Kenneth氏が関わっているプロジェクトやライブラリの紹介をしていました。（ http://www.kennethreitz.org/projects/ )　またその他写真や音楽、スピーカーとしての活動についてお話しました。
 
 ![Kenneth Reitz氏（１）](https://farm4.staticflickr.com/3869/15254824341_f80de5374b_z.jpg)
 Kenneth Reitz氏（１） (c) PyCon JP
@@ -41,7 +51,7 @@ Kenneth氏はまず言語に関する4つの軸、言葉の伝え方の変化に
 * 言語を話す（他の人に説明する）
 * 言語を書く（アイデアは時間を超えて存続する）
 
-次にコミュニケーションの方法の変革について、具体的な事例を交えて説明しました。現代は人類の歴史において多対多で発信できる初めての機会だと述べました。
+次にコミュニケーションの方法の変革について、具体的な事例を交えて説明しました。現代は人類の歴史において多対多で発信できる初めての機会だと紹介していました。
 
 #### コミュニケーション
 
@@ -62,11 +72,20 @@ Kenneth氏はまず言語に関する4つの軸、言葉の伝え方の変化に
 
 ### Python
 
+#### The Zen of Python
 
+次にPythonのお話に移りました。まずは[The Zen of Python]からいくつかの項目を紹介し、Kenneth氏がPythonをいかに好きなのかについて説明がありました。
+
+* Explicit is better than implicit
+* Simple is better than complex.
+* Complex is better than complicated.
+
+そして現状Pythonには、Python2、Python3存在し、それぞれを使用するユーザー間で分断があり、そこを何とかするために、Python3をみんなで使ってフィードバックしていこうという問題提起のプレゼンテーションでした。Kenneth氏のスライドにある[You are the solution.] いう言葉がとても印象的で、使用する私たちこそが問題提起をもって積極的にPython3を使用していきたいと思いました。
+
+質疑応答でもPython3に関連する質問が飛び交い、非常にエキサイティングな幕開けとなりまいた。
 
 ![Kenneth Reitz氏（２）](https://farm4.staticflickr.com/3908/15071365558_b62e1cabdb_z.jpg)
 Kenneth Reitz氏（２） (c) PyCon JP
-
 
 スライド
 
@@ -134,7 +153,9 @@ Kenneth Reitz氏（２） (c) PyCon JP
 * https://www.youtube.com/watch?v=3AVt6A7qaOg&list=UUxNoKygeZIE1AwZ_NdUCkhQ
 
 
+## 次回予告
 
+第2回ではPyCon JP 2014のカンファレンスのセッション（一日目）の内容をお届けします。
 
 
 

@@ -174,3 +174,16 @@ PyCon JP 2014 スタッフ。株式会社モバイルファクトリーで人事
 
 - Twitter: `@crazygirl_lover <https://twitter.com/crazygirl_lover>`_
 
+
+橋爪　由美 (ハシヅメ ユミ)
+====================================
+
+.. image:: /_static/uniq.png
+   :width: 200
+
+萌え絵描きwebデザイナー。エンジニアと一緒にデザインを実装するのが好き。エンジニアとデザイナーが仲良く作業できるには〜を日々考えています。Pythonを初歩からよちよち勉強中。
+
+- Twitter: `@uniq <https://twitter.com/uniq>`_
+- Facebook: `橋爪　由美 <https://www.facebook.com/uni.ishizaki>`_
+
+

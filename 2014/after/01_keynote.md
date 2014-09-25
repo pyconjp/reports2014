@@ -19,7 +19,7 @@ PyCon JP 2014ではYouTube Liveによってほとんどのセッションが生�
 
 ### PyCon Japan 2014の動画
 
-* https://www.youtube.com/playlist?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5
+* http://www.youtube.com/playlist?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5
 	
 
 ## 1日目基調講演 Kenneth Reitz氏 Python 2.7 and Python 3: A Sacred Love Story
@@ -89,7 +89,7 @@ Kenneth Reitz氏（２） (c) PyCon JP
 
 動画
 
-* https://www.youtube.com/playlist?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5/
+* http://youtu.be/9oJXzlmGJKc?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5
 
 
 ## 2日目基調講演 西尾泰和氏 ─Rediscover with Python
@@ -160,7 +160,7 @@ Kenneth Reitz氏（２） (c) PyCon JP
 
 動画
 
-* https://www.youtube.com/watch?v=3AVt6A7qaOg&list=UUxNoKygeZIE1AwZ_NdUCkhQ
+* http://youtu.be/3AVt6A7qaOg?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5
 
 
 ## 次回予告

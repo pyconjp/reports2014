@@ -12,10 +12,35 @@
 デザインについて
 ================
 
-(uniqさん担当)
+デザイン担当の橋爪由美（@uniq）です。
 
 * 今年やったこと
+
+`webサイト <https://pycon.jp/2014/>`_ 、Tシャツ、ステッカー、缶バッジ、冊子のデザインをしました。今回は、世界文化遺産に登録された富士山のイメージを中心に、和風に仕上げてみました。
+
+.. raw:: html
+   
+   <a href="https://www.flickr.com/photos/pyconjp/15245287432" title="冊子、ステッカー、缶バッジ by pycon jp, on Flickr"><img src="https://farm6.staticflickr.com/5563/15245287432_4b2174b0c9_z.jpg" width="640" height="429" alt="冊子、ステッカー、缶バッジ"></a>
+
+Tシャツの胸の箇所は「中秋の名月」イメージです。9月開催だったので。
+
+.. raw:: html
+   
+   <a href="https://www.flickr.com/photos/pyconjp/15071317720" title="IMG_9270 by pycon jp, on Flickr"><img src="https://farm4.staticflickr.com/3886/15071317720_785a8ef662_z.jpg" width="640" height="427" alt="IMG_9270"></a>
+
+スタッフ・スピーカーTシャツの背中は、家紋っぽくPythonロゴを入れてみました。「PyCon JPファミリー」っぽく。
+
+.. raw:: html
+   
+   <a href="https://www.flickr.com/photos/pyconjp/15050355219" title="Staff Tシャツ by pycon jp, on Flickr"><img src="https://farm4.staticflickr.com/3838/15050355219_1564187a91_z.jpg" width="640" height="429" alt="Staff Tシャツ"></a>
+
 * よかったこと・反省点
+
+全体のイメージが統一できて、PyCon JP の雰囲気作りに一役買えたかなーと思ってます。外国の方にも喜ばれたと聞いてます。
+
+私にとって初めての PyCon JP だったので、作業量やスケジュール感がつかめず、最初は不安でしたが、もうひとりのデザイナー担当 kinofumi さんの協力もあり、無事に完成できました。
+
+反省点は、冊子の誤植が多かったことです。次回はしっかり校正したいです。また、Webサイトのデザインも、もっと凝れたらなあと思っています。
 
 スポンサー対応について
 ======================

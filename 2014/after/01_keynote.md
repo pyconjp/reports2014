@@ -11,20 +11,20 @@
 
 ## PyCon JP 2014とは
 
-PyConとは、日本を含む世界各国で開催されており、Pythonユーザーが集まり、Pythonに関する知識を共有したり、交流を深めるためのイベントです。PyCon JP は日本で開催されるカンファレンスで、毎年規模が大きくなっており、日本を含む世界各国から参加者が集まる大きなイベントです。今年は **「Python で再発見 - Rediscover with Python」** をテーマとして開催され、545名の方が参加しました。
+PyConとは、日本を含む世界各国で開催されており、Pythonユーザーが集まり、Pythonに関する知識を共有したり、交流を深めるためのイベントです。PyCon JP は日本で開催されるカンファレンスで、毎年規模が大きくなっており、日本を含む世界各国から参加者が集まります。今年は **「Python で再発見 - Rediscover with Python」** をテーマとして開催され、545名の方が参加しました。
 
 ## キーノート & セッション
 
-PyCon JP 2014ではYouTube Liveによってすべてのセッションが生放送され、またセッションの録画をYouTubeで見ることができるようになっています。
+PyCon JP 2014ではYouTube Liveによってほとんどのセッションが生放送されました。またセッションの録画をYouTubeで見ることができるようになっています。
 
 ### PyCon Japan 2014の動画
 
-* https://www.youtube.com/playlist?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5
+* http://www.youtube.com/playlist?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5
 	
 
 ## 1日目基調講演 Kenneth Reitz氏 Python 2.7 and Python 3: A Sacred Love Story
 
-1日日の基調講演はKenneth Reitz氏でした。Kenneth Reitz氏は、HerokuのPythonプロダクトオーナーであり、Python Software Foundationのフェローです。
+1日日の基調講演はKenneth Reitz氏でした。Kenneth氏は、HerokuのPythonプロダクトオーナーであり、Python Software Foundationのフェローです。
 まずは自己紹介として、Kenneth氏が関わっているプロジェクトやライブラリの紹介をしていました。またKenneth氏が興味をもっている写真や音楽、さらにスピーカーとしての活動について話しました。
 
 ![Kenneth Reitz氏（１）](https://farm4.staticflickr.com/3869/15254824341_f80de5374b_z.jpg)
@@ -32,7 +32,7 @@ Kenneth Reitz氏（１） (c) PyCon JP
 
 ### Language
     
-Kenneth氏はまず言語に関する4つの軸および、言葉の伝え方の変化について述べました。人間は言葉を通じて、アイデアを人に伝えており、時間とともに伝え方が変化していること、また人間のハードウェア（体）は変化しないが、ソフトウェア（伝えるスキル）は常にアップデートされている事を述べました。
+次に言語に関する4つの軸および、言葉の伝え方の変化について述べました。人間は言葉を通じて、アイデアを人に伝えており、時間とともに伝え方が変化していること、また人間のハードウェア（体）は変化しないが、ソフトウェア（伝えるスキル）は常にアップデートされている事を述べました。
 
 #### 軸
 
@@ -71,7 +71,7 @@ Kenneth氏はまず言語に関する4つの軸および、言葉の伝え方の
 
 #### The Zen of Python
 
-次にPythonの話題に移りました。まずはimport thisで有名な[The Zen of Python](http://legacy.python.org/dev/peps/pep-0020/)からいくつかの項目を紹介し、Kenneth氏がPythonをいかに好きなのかについて話していました。
+次にPythonの話題に移りました。まずはimport thisで有名な[The Zen of Python](http://legacy.python.org/dev/peps/pep-0020/)からいくつかの項目を紹介し、Kenneth氏がPythonを特別だと思っていて、Pythonが好きだという事を紹介しました。
 
 * Beautiful is better than ugly.
 * Explicit is better than implicit
@@ -89,7 +89,7 @@ Kenneth Reitz氏（２） (c) PyCon JP
 
 動画
 
-* https://www.youtube.com/playlist?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5/
+* http://youtu.be/9oJXzlmGJKc?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5
 
 
 ## 2日目基調講演 西尾泰和氏 ─Rediscover with Python
@@ -112,12 +112,12 @@ Kenneth Reitz氏（２） (c) PyCon JP
 * 解析（データの収集、クレンジング、フィルタリング、統計処理）
 
 インフラのセクションではデータセンターのストレージバックアップの事例や、P2Pの自動障害回復システムの事例を上げ、高速化が必要な部分をC++やJavaで記述し、Pythonでそれらのコンポーネントをつなぎ合わせていると述べていました。
-サイボウズのような大規模な事例での使われ方を知ることが出来て、とても参考になりました。
+サイボウズのような大規模な事例でのPythonの使用例を知ることが出来て、とても参考になりました。
 
 * https://enterprise.cybozu.com/topics131111/
 * http://developer.cybozu.co.jp/tech/?p=5799
 
-西尾氏は上記に挙げた項目のうち、西尾氏が一番コントリビュートしているのは解析の部分だと説明し、実際にサイボウズのプロダクトである「kintone」に搭載されているおすすめグラフ（Chart recommendation）について説明を行いました。色々なデータの統計情報を元にして、情報のありそうなグラフを選択して、表示してくれる仕組みのようです。西尾氏がFlask、NumPyを使用してプロトタイプを作成し、最終的には製品版のアプリケーションではJavaScriptに移植して作成されたようです。
+西尾氏は上記に挙げた項目のうち、一番コントリビュートしているのは解析の部分だと説明し、実際にサイボウズのプロダクトである「kintone」に搭載されているおすすめグラフ（Chart recommendation）について説明を行いました。色々なデータの統計情報を元に、情報のありそうなグラフを選択して、表示してくれる仕組みのようです。西尾氏がFlask、NumPyを使用してプロトタイプを作成し、最終的には製品版のアプリケーションではJavaScriptに移植して作成されたようです。
 
 * http://developer.cybozu.co.jp/tech/?p=3874
 
@@ -160,7 +160,7 @@ Kenneth Reitz氏（２） (c) PyCon JP
 
 動画
 
-* https://www.youtube.com/watch?v=3AVt6A7qaOg&list=UUxNoKygeZIE1AwZ_NdUCkhQ
+* http://youtu.be/3AVt6A7qaOg?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5
 
 
 ## 次回予告

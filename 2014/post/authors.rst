@@ -6,46 +6,12 @@
 
    フルネームとフリガナが必要です。
 
-筒井 隆次（ツツイ リュウジ）
-============================
+.. contents:: 目次
+   :local:
+   :depth: 1
 
-.. image:: /_static/ryu22e.jpg
-
-本業はWebエンジニア。メイン言語はJava, PHP, Python。
-
-Pythonを学んだのは2011年ごろで、Python歴はまだ浅いのですが、書きやすさから今では一番お気に入りの言語になりました。
-
-最近、仕事でも念願のPython(Django)デビューができました。(PyCon JPスタッフ活動のおかげかも？)
-
-- Twitter: `@ryu22e <https://twitter.com/ryu22e>`_
-- Blog: `ryu22eBlog <http://ryu22e.org/>`_
-
-神谷 亮一郎 (カミヤ リョウイチロウ)
-========================================
-
-.. image:: /_static/kamiya.jpg
-   :width: 200
-
-PyCon JP 2014 スタッフ。Guildary Pte. Ltd. （シンガポール法人）とSweet Remedy Inc. （日本法人）で投資銀行向けの経営コンサルティングをしています。Webサービスのために作った会社なのですが、まだ実現できていません・・・
-
-前職まではプログラミングは趣味の程度でしたが、2012年に退職して念願のWebサービス立ち上げ生活満喫中です。2013年2月に日本に帰国するまでは、8年ほど香港とシンガポールで経営コンサルティング会社と投資銀行で働いていました。上京してからはいろいろと各種の勉強会に参加しておりますので、よろしくお願いします。
-
-:Twitter: `@ryokamiya <https://twitter.com/ryokamiya>`_
-:サイト: `http://www.guildary.com <http://www.guildary.com>`_
-:プロフィール: `LinkedInページ <http://www.linkedin.com/pub/ryoichiro-kamiya/4/9ba/959>`_
-
-清田 史和 (キヨタ フミカズ)
-========================================
-
-.. image:: /_static/kiyota.jpg
-   :width: 200
-
-PyCon JP 2014 スタッフです。
-
-SnapDish というサービスを開発・運営しています。仕事では Objective-C や Python を書く事が多いです。後は、AWS上でのインフラの運用構築なども仕事でやっています。PyCon に関わって、新たな技術や今までに会う事が出来なかった人に出会えてとても刺激になっています。今年は、プログラムリーダーという責任重大なポジションで関わる事になり内心不安ですが、全う出来るよう頑張りたいと考えています。
-
-:Twitter: `@kiyotaman <https://twitter.com/kiyotaman>`_
-:サイト: `http://snapdish.co <http://snapdish.co>`_
+座長
+----
 
 鈴木 たかのり(スズキ タカノリ)
 ==============================
@@ -59,6 +25,76 @@ SnapDish というサービスを開発・運営しています。仕事では O
 - Twitter: `@takanory <https://twitter.com/takanory>`_
 - Facebook: `鈴木 たかのり <https://www.facebook.com/takanory.net>`_
 - Webサイト: `takanory.net <http://takanory.net/>`_
+
+
+
+会場チーム
+----------
+
+ナツ
+====
+
+.. image:: /_static/natsu.jpg
+   :width: 200
+
+細かいところが気になる性分から、気付いた時にはゲリラ的テスト屋さんに。
+自身はPython使いではありませんが、彼らの作ったプログラムに愛の突っ込みを入れる日々を過ごしています。
+PyCon JPでは、会場担当を引き受けて3年目になります。今年は担当範囲が広がって若干悲鳴気味。
+
+- Twitter: `@natsu_bm <https://twitter.com/natsu_bm>`_
+
+中村 暁史(ナカムラ サトシ)
+==============================
+社会人1年目、ネットワークを支える裏方の仕事をしています。
+覚えることがいっぱいな毎日、自宅に検証環境を用意して日々奮闘中。PyConには世界にネットワークを届けたいという思いから参加。
+
+金井 貴浩(カナイ タカヒロ)
+==============================
+株式会社インターネットイニシアティブ所属。
+ネットワークエンジニア1年目。自宅にネットワークの検証環境を構築し、日々学び続けています。いくつかのイベントネットワークの構築も経験し、今回は設計から携わりたいためPyConネットワークチームに参加。
+
+- Twitter: `@taka_stack <https://twitter.com/taka_stack>`_
+
+Kosei Kitahara(キタハラ コウセイ)
+====================================
+
+.. image:: /_static/surgo.jpg
+   :width: 200
+
+株式会社 Vettl 所属。Vettl は PyCon JP 2014 へスポンサーとしても参加しています。
+
+Web 系なエンジニア。AWS, Docker, Python, Django あたりが好き。仕事では主に Python を使ったサーバサイドアプリの開発をしています。
+
+- Twitter: `@Surgo <https://twitter.com/Surgo>`_
+- Facebook: `Kosei Kitahara <https://www.facebook.com/Surgo>`_
+
+水野 真璃（みずの まり）
+====================================
+
+.. image:: /_static/mmznn.jpg
+   :width: 200
+
+
+PyCon JPにスタッフとして途中参加しました。普段はインフラ系の営業やっているので Python は書きませんが、Python ボルダリング部で登っています。
+
+- Facebook: `水野 真璃 <https://www.facebook.com/profile.php?id=100004466191863>`_
+
+
+プログラムチーム
+----------------
+
+清田 史和 (キヨタ フミカズ)
+========================================
+
+.. image:: /_static/kiyota.jpg
+   :width: 200
+
+PyCon JP 2014 スタッフです。
+
+SnapDish というサービスを開発・運営しています。仕事では Objective-C や Python を書く事が多いです。後は、AWS上でのインフラの運用構築なども仕事でやっています。PyCon に関わって、新たな技術や今までに会う事が出来なかった人に出会えてとても刺激になっています。今年は、プログラムリーダーという責任重大なポジションで関わる事になり内心不安ですが、全う出来るよう頑張りたいと考えています。
+
+:Twitter: `@kiyotaman <https://twitter.com/kiyotaman>`_
+:サイト: `http://snapdish.co <http://snapdish.co>`_
 
 長内 歩(オサナイ アユム)
 ==============================
@@ -111,7 +147,7 @@ PyCon JPにおいては、今回からスタッフになりました :-)
 - Twitter: `@hktechno <https://twitter.com/hktechno>`_
 - Facebook: `川田 裕貴 <https://www.facebook.com/hktechno>`_
 
-劉　朗（リュウロウ）
+劉 朗（リュウ ロウ）
 ==============================
 
 .. image:: /_static/didornot.jpg
@@ -124,55 +160,42 @@ PyCon JPにおいては、今回からスタッフになりました :-)
 - Twitter: `@liulang24 <https://twitter.com/liulang24>`_
 - Facebook: `Lang Liu <https://www.facebook.com/liulang.24>`_
 
-ナツ
-====
+メディアチーム
+--------------
 
-.. image:: /_static/natsu.jpg
+筒井 隆次（ツツイ リュウジ）
+============================
+
+.. image:: /_static/ryu22e.jpg
+
+本業はWebエンジニア。メイン言語はJava, PHP, Python。
+
+Pythonを学んだのは2011年ごろで、Python歴はまだ浅いのですが、書きやすさから今では一番お気に入りの言語になりました。
+
+最近、仕事でも念願のPython(Django)デビューができました。(PyCon JPスタッフ活動のおかげかも？)
+
+- Twitter: `@ryu22e <https://twitter.com/ryu22e>`_
+- Blog: `ryu22eBlog <http://ryu22e.org/>`_
+
+
+事務局チーム
+------------
+
+神谷 亮一郎 (カミヤ リョウイチロウ)
+========================================
+
+.. image:: /_static/kamiya.jpg
    :width: 200
 
-細かいところが気になる性分から、気付いた時にはゲリラ的テスト屋さんに。
-自身はPython使いではありませんが、彼らの作ったプログラムに愛の突っ込みを入れる日々を過ごしています。
-PyCon JPでは、会場担当を引き受けて3年目になります。今年は担当範囲が広がって若干悲鳴気味。
+PyCon JP 2014 スタッフ。Guildary Pte. Ltd. （シンガポール法人）とSweet Remedy Inc. （日本法人）で投資銀行向けの経営コンサルティングをしています。Webサービスのために作った会社なのですが、まだ実現できていません・・・
 
-- Twitter: `@natsu_bm <https://twitter.com/natsu_bm>`_
+前職まではプログラミングは趣味の程度でしたが、2012年に退職して念願のWebサービス立ち上げ生活満喫中です。2013年2月に日本に帰国するまでは、8年ほど香港とシンガポールで経営コンサルティング会社と投資銀行で働いていました。上京してからはいろいろと各種の勉強会に参加しておりますので、よろしくお願いします。
 
-中村 暁史(ナカムラ サトシ)
-==============================
-社会人1年目、ネットワークを支える裏方の仕事をしています。
-覚えることがいっぱいな毎日、自宅に検証環境を用意して日々奮闘中。PyConには世界にネットワークを届けたいという思いから参加。
+:Twitter: `@ryokamiya <https://twitter.com/ryokamiya>`_
+:サイト: `http://www.guildary.com <http://www.guildary.com>`_
+:プロフィール: `LinkedInページ <http://www.linkedin.com/pub/ryoichiro-kamiya/4/9ba/959>`_
 
-金井 貴浩(カナイ タカヒロ)
-==============================
-株式会社インターネットイニシアティブ所属。
-ネットワークエンジニア1年目。自宅にネットワークの検証環境を構築し、日々学び続けています。いくつかのイベントネットワークの構築も経験し、今回は設計から携わりたいためPyConネットワークチームに参加。
-
-- Twitter: `@taka_stack <https://twitter.com/taka_stack>`_
-
-Kosei Kitahara(キタハラ コウセイ)
-====================================
-
-.. image:: /_static/surgo.jpg
-   :width: 200
-
-株式会社 Vettl 所属。Vettl は PyCon JP 2014 へスポンサーとしても参加しています。
-
-Web 系なエンジニア。AWS, Docker, Python, Django あたりが好き。仕事では主に Python を使ったサーバサイドアプリの開発をしています。
-
-- Twitter: `@Surgo <https://twitter.com/Surgo>`_
-- Facebook: `Kosei Kitahara <https://www.facebook.com/Surgo>`_
-
-水野 真璃（みずの まり）
-====================================
-
-.. image:: /_static/mmznn.jpg
-   :width: 200
-
-
-PyCon JPにスタッフとして途中参加しました。普段はインフラ系の営業やっているので Python は書きませんが、Python ボルダリング部で登っています。
-
-- Facebook: `水野 真璃 <https://www.facebook.com/profile.php?id=100004466191863>`_
-
-津田　麻美子 (ツダ マミコ)
+津田 麻美子 (ツダ マミコ)
 ====================================
 
 .. image:: /_static/tsuda.jpeg
@@ -188,7 +211,7 @@ PyCon JP 2014 スタッフ。株式会社モバイルファクトリーで人事
 - Twitter: `@crazygirl_lover <https://twitter.com/crazygirl_lover>`_
 
 
-橋爪　由美 (ハシヅメ ユミ)
+橋爪 由美 (ハシヅメ ユミ)
 ====================================
 
 .. image:: /_static/uniq.png

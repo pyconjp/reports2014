@@ -221,4 +221,14 @@ PyCon JP 2014 スタッフ。株式会社モバイルファクトリーで人事
 - Twitter: `@uniq <https://twitter.com/uniq>`_
 - Facebook: `橋爪　由美 <https://www.facebook.com/uni.ishizaki>`_
 
+吉田 俊輔 (ヨシダ シュンスケ)
+====================================
 
+PyCon JP 2014 スタッフ。ミラクル・リナックス所属のシステムエンジニア。
+どこにでもいる自称、一般人。
+OS/DataBase/Network/仮想化等のインフラ系SE。
+小江戸らぐ/東京エリアDebian勉強会/YLUG/USAGI補完計画等、
+関東近郊のOSSコミュニティに参加。イベント参加/出展や原稿執筆を行っている。
+Pycon JP 2013に一般で参加し、知り合いのスタッフを見つけて、Pycon JP 2014のスタッフ参加を希望。
+
+- Facebook: `吉田　俊輔 <https://www.facebook.com/koedoyoshida>`_

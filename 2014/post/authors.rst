@@ -176,6 +176,19 @@ Pythonを学んだのは2011年ごろで、Python歴はまだ浅いのですが�
 - Twitter: `@ryu22e <https://twitter.com/ryu22e>`_
 - Blog: `ryu22eBlog <http://ryu22e.org/>`_
 
+小松 大輔（コマツ ダイスケ）
+============================
+
+.. image:: /_static/vkgtaro.jpg
+
+G-MODE ってところで、ゲームのバックエンド支えてます。
+perl monger から Pythonista への転身もつかの間、いろいろあって最近また perl に戻ってきました。
+ゲームデータ扱う辺りで PyData 入門したい。
+
+- Twitter: `@vkgtaro <https://twitter.com/vkgtaro>`_
+- website: `http://vkgtaro.jp/ <http://vkgtaro.jp/>`_
+- flickr: `https://www.flickr.com/photos/vkgtaro/ <https://www.flickr.com/photos/vkgtaro/>`_
+
 
 事務局チーム
 ------------
@@ -232,3 +245,4 @@ OS/DataBase/Network/仮想化等のインフラ系SE。
 Pycon JP 2013に一般で参加し、知り合いのスタッフを見つけて、Pycon JP 2014のスタッフ参加を希望。
 
 - Facebook: `吉田　俊輔 <https://www.facebook.com/koedoyoshida>`_
+

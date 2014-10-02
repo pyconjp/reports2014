@@ -44,6 +44,18 @@ Web 系なエンジニア。AWS, Docker, Python, Django あたりが好き。仕
 - Twitter: `@Surgo <https://twitter.com/Surgo>`_
 - Facebook: `Kosei Kitahara <https://www.facebook.com/Surgo>`_
 
+山口 勝司(ヤマグチ カツシ)
+====================================
+
+.. image:: /_static/kt-yamaguchi.jpg
+   :width: 200
+
+株式会社インターネットイニシアティブ
+新しい技術にチャレンジする事、自分の設計したネットワークを多くの方に使って頂ける事に喜びを感じ、様々なカンファレンスネットワーク構築チーム、ネットワーク関連の勉強会などに積極的に参加しています。
+
+- Twitter：@yamaarashi0518
+- Blog：http://www.ipnet-lab.jp
+
 ナツ
 ====
 

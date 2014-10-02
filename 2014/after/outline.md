@@ -20,11 +20,9 @@
 
 ### Data collection, analysis and optimization with python (en)
 
-### Introduction to scientific programming in python (en)
+### Micro Python で組み込み Python (ja)
 
 ### XML-RPC : Pythonが「電池付属」と呼ばれる理由 (ja)
-
-### Python を支える技術: ディスクリプタ編 (ja)
 
 ## 2日目セッション
 

@@ -6,7 +6,7 @@
 
 動画
 
-* <iframe width="560" height="315" src="//www.youtube.com/embed/9oJXzlmGJKc?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/9oJXzlmGJKc?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5" frameborder="0" allowfullscreen></iframe>
 
 
 ## 西尾氏
@@ -18,3 +18,45 @@
 動画
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/3AVt6A7qaOg?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5" frameborder="0" allowfullscreen></iframe>
+
+## Djangoによるスマホアプリバックエンドの実装
+
+スライド
+<iframe src="//www.slideshare.net/slideshow/embed_code/39058203" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/nakazawayuichi/pycon-rev005" title="Djangoによるスマホアプリバックエンドの実装" target="_blank">Djangoによるスマホアプリバックエンドの実装</a> </strong> from <strong><a href="//www.slideshare.net/nakazawayuichi" target="_blank">Nakazawa Yuichi</a></strong> </div>
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/MrJs5Mf2bXA?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+## Djangoアプリケーション、パフォーマンスチューニング
+
+スライド
+<iframe src="//www.slideshare.net/slideshow/embed_code/39037314" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/hirokiky/pycon2014-django-performance-39037314" title="Pycon2014 django performance" target="_blank">Pycon2014 django performance</a> </strong> from <strong><a href="http://www.slideshare.net/hirokiky" target="_blank">hirokiky</a></strong> </div>
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/1aLAZG4Udg0?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+## Data collection, analysis and optimization with python
+
+ソースコード
+https://github.com/shinji071/PyCon2014
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/BE1rIpwAh1w?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+
+## Micro Python で組み込み Python
+
+スライド
+<iframe src="//www.slideshare.net/slideshow/embed_code/39039083" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/hktechno/micro-python-python" title="Micro Python で組み込み Python" target="_blank">Micro Python で組み込み Python</a> </strong> from <strong><a href="//www.slideshare.net/hktechno" target="_blank">Hirotaka Kawata</a></strong> </div>
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/6eysYvvNiBs?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+
+## XML-RPC : Pythonが「電池付属」と呼ばれる理由
+
+スライド
+<iframe src="//www.slideshare.net/slideshow/embed_code/39098941" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/RansuiIso/xmlrpc-python" title="XML-RPC : Pythonが「電池付属」と呼ばれる理由" target="_blank">XML-RPC : Pythonが「電池付属」と呼ばれる理由</a> </strong> from <strong><a href="//www.slideshare.net/RansuiIso" target="_blank">Ransui Iso</a></strong> </div>
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/ZsIRpfbVeRY?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>

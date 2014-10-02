@@ -178,6 +178,19 @@ perl monger から Pythonista への転身もつかの間、いろいろあっ�
 - flickr: `https://www.flickr.com/photos/vkgtaro/ <https://www.flickr.com/photos/vkgtaro/>`_
 
 
+柿原 祥之（カキハラ ヨシユキ）
+============================
+
+.. image:: /_static/1664riffs.jpg
+   :width: 200
+
+PyCon JP 2014 スタッフ。広報。おもに英訳を担当。
+
+英国留学・現地気象庁での勤務を経て、ソニーで組み込み開発、Android、技術標準化、新規事業開発などやってきました。いまは会社立ち上げ中。
+
+- Twitter: `@1664riffs <https://twitter.com/1664riffs>`_
+
+
 事務局チーム
 ------------
 

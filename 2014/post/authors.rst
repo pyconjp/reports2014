@@ -246,3 +246,12 @@ Pycon JP 2013に一般で参加し、知り合いのスタッフを見つけて�
 
 - Facebook: `吉田　俊輔 <https://www.facebook.com/koedoyoshida>`_
 
+門河 善也 (カドカワ ヨシナリ)
+====================================
+
+PyCon JP 2014 スタッフ。株式会社データホテルでエンジニアをやっております。
+PyConは初参加の初スタッフでした。
+OpenStackを契機にPythonを本格的に触れることになり、本PyConを知りました。
+まだまだ素人ですが、もっともっと知っていきたいと思っています！
+
+- Facebook: `Yoshi Kadokawa　 <https://www.facebook.com/yoshi.kadokawa>`_

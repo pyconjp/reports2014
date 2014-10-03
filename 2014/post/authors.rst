@@ -56,6 +56,17 @@ Web 系なエンジニア。AWS, Docker, Python, Django あたりが好き。仕
 - Twitter：@yamaarashi0518
 - Blog：http://www.ipnet-lab.jp
 
+金井 貴浩(カナイ タカヒロ)
+==============================
+
+.. image:: /_static/tk-kanai_pic.*
+   :width: 200
+
+株式会社インターネットイニシアティブ所属。
+ネットワークエンジニア1年目。自宅にネットワークの検証環境を構築し、日々学び続けています。いくつかのイベントネットワークの構築も経験し、今回は設計から携わりたいためPyConネットワークチームに参加。
+
+- Twitter: `@taka_stack <https://twitter.com/taka_stack>`_
+
 ナツ
 ====
 

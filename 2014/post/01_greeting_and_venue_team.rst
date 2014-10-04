@@ -30,6 +30,7 @@ PyCon JP 2014 は545名(スタッフ含む)の方に来場していただきま�
 .. figure:: /_static/pyconjp2014-group-photo.jpg
    :width: 400
    :alt: 参加者の全体集合写真
+   :target: https://www.flickr.com/photos/pyconjp/15234991246
 
    参加者の全体集合写真
 
@@ -322,11 +323,13 @@ PyCon JP 2014に来場している参加者はプログラマーが中心で、�
 
 .. figure:: /_static/party1.jpg
     :width: 400
+    :target: https://www.flickr.com/photos/pyconjp/15254785081
 
     パーティの様子1
 
 .. figure:: /_static/party2.jpg
     :width: 400
+    :target: https://www.flickr.com/photos/pyconjp/15254785521
 
     パーティの様子2
 
@@ -344,11 +347,13 @@ PyCon JP 2014に来場している参加者はプログラマーが中心で、�
 
 .. figure:: /_static/snacks1.jpg
     :width: 400
+    :target: https://www.flickr.com/photos/pyconjp/15071249589
 
     おやつのカステラ
 
 .. figure:: /_static/snacks2.jpg
     :width: 400
+    :target: https://www.flickr.com/photos/pyconjp/15297229675
 
     おやつを囲んで談笑する参加者たち
 

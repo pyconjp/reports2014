@@ -334,18 +334,21 @@ ValuePress! は一度に複数のメディアに告知依頼できるウェブ�
 .. figure:: _static/oreilly_booth_1.*
    :width: 300px
    :alt: 物販ブースの様子1
+   :target: https://www.flickr.com/photos/pyconjp/15109357698
 
    物販ブースの様子1
 
 .. figure:: _static/oreilly_booth_2.*
    :width: 300px
    :alt: 物販ブースの様子2
+   :target: https://www.flickr.com/photos/pyconjp/15109136309
 
    物販ブースの様子2
 
 .. figure:: _static/oreilly_booth_3.*
    :width: 300px
    :alt: 石本敦夫さんによるサイン会の様子
+   :target: https://www.flickr.com/photos/pyconjp/15071332737
 
    石本敦夫さんによるサイン会の様子
 
@@ -358,6 +361,7 @@ ValuePress! は一度に複数のメディアに告知依頼できるウェブ�
 .. figure:: _static/pepper_in_closing.*
    :width: 300px
    :alt: クロージング プレゼント抽選会で当選者を発表するPepper君
+   :target: https://www.flickr.com/photos/pyconjp/15071303670
 
    クロージング プレゼント抽選会で当選者を発表するPepper君
 

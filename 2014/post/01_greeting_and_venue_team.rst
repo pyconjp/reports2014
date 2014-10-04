@@ -58,7 +58,11 @@ PyCon JP 2014 スタッフ体制について
 
 コミュニケーションの中心となるツールを `Slack <https://slack.com/>`_ (チャット)と `JIRA <https://www.atlassian.com/ja/software/jira>`_ (課題管理)に変更しました。ツールなので一長一短はありますが、個人的には概ね満足しています。
 
-PyCon JP で使用しているツール、サービスについてはライトニングトークの `PyCon JP を支える技術 / Technologies that underlie PyCon JP <http://www.slideshare.net/takanory/pycon-jp-technologies-that-underlie-pycon-jp>`_ で発表しました。
+PyCon JP で使用しているツール、サービスについてはPyCon JP 2014のライトニングトークでも発表しました。
+
+.. raw:: html
+
+   <iframe src="//www.slideshare.net/slideshow/embed_code/39060985" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/takanory/pycon-jp-technologies-that-underlie-pycon-jp" title="PyCon JP を支える技術 / Technologies that underlie PyCon JP" target="_blank">PyCon JP を支える技術 / Technologies that underlie PyCon JP</a> </strong> from <strong><a href="http://www.slideshare.net/takanory" target="_blank">Takanori Suzuki</a></strong> </div>
 
 **作業日の実施**
 

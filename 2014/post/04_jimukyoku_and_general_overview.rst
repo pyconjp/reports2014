@@ -27,21 +27,30 @@
 
 `webサイト <https://pycon.jp/2014/>`_ 、Tシャツ、ステッカー、缶バッジ、冊子のデザインをしました。今回は、世界文化遺産に登録された富士山のイメージを中心に、和風に仕上げてみました。
 
-.. raw:: html
+.. figure:: /_static/booklet.jpg
+   :width: 400
+   :alt: 冊子、ステッカー、缶バッジ
+   :target: https://www.flickr.com/photos/pyconjp/15245287432
 
-   <a href="https://www.flickr.com/photos/pyconjp/15245287432" title="冊子、ステッカー、缶バッジ by pycon jp, on Flickr"><img src="https://farm6.staticflickr.com/5563/15245287432_4b2174b0c9_z.jpg" width="640" height="429" alt="冊子、ステッカー、缶バッジ"></a>
+   冊子、ステッカー、缶バッジ
 
 Tシャツの胸の箇所は「中秋の名月」イメージです。9月開催だったので。
 
-.. raw:: html
+.. figure:: /_static/pyconjp-goods.jpg
+   :width: 400
+   :alt: 一般参加者Tシャツとグッズ
+   :target: https://www.flickr.com/photos/pyconjp/15071317720
 
-   <a href="https://www.flickr.com/photos/pyconjp/15071317720" title="IMG_9270 by pycon jp, on Flickr"><img src="https://farm4.staticflickr.com/3886/15071317720_785a8ef662_z.jpg" width="640" height="427" alt="IMG_9270"></a>
+   一般参加者Tシャツとグッズ
 
 スタッフ・スピーカーTシャツの背中は、家紋っぽくPythonロゴを入れてみました。「PyCon JPファミリー」っぽく。
 
-.. raw:: html
+.. figure:: /_static/staff-tshirt.jpg
+   :width: 400
+   :alt: スタッフTシャツ
+   :target: https://www.flickr.com/photos/pyconjp/15050355219
 
-   <a href="https://www.flickr.com/photos/pyconjp/15050355219" title="Staff Tシャツ by pycon jp, on Flickr"><img src="https://farm4.staticflickr.com/3838/15050355219_1564187a91_z.jpg" width="640" height="429" alt="Staff Tシャツ"></a>
+   スタッフTシャツ
 
 よかったこと・反省点
 --------------------

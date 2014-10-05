@@ -17,6 +17,7 @@
 ==============================
 
 .. image:: /_static/kurokuri.jpg
+   :width: 200
 
 `PyCon JP 2014 <https://pycon.jp/2014/>`_ Chair(座長)。 `株式会社ビープラウド <http://www.beproud.jp/>`_ 所属
 
@@ -111,6 +112,7 @@ SnapDish というサービスを開発・運営しています。仕事では O
 ==============================
 
 .. image:: /_static/walker.png
+   :width: 200
 
 PyCon JP 2014でスタッフ初参加。
 
@@ -177,6 +179,7 @@ Ian Lewis (ルイス イアン)
 ============================
 
 .. image:: /_static/ian.jpg
+   :width: 200
 
 IT系イベントサービス connpass.com のリードエンジニア。 使っている言語は Python がメイン。
 他に Goや、Haskellや、クラウドサーバー系 (Docker, Ansibleなど)や、コミュニティの構築に
@@ -189,6 +192,7 @@ IT系イベントサービス connpass.com のリードエンジニア。 使っ
 ============================
 
 .. image:: /_static/ryu22e.jpg
+   :width: 200
 
 本業はWebエンジニア。メイン言語はJava, PHP, Python。
 
@@ -203,6 +207,7 @@ Pythonを学んだのは2011年ごろで、Python歴はまだ浅いのですが�
 ============================
 
 .. image:: /_static/vkgtaro.jpg
+   :width: 200
 
 G-MODE ってところで、ゲームのバックエンド支えてます。
 perl monger から Pythonista への転身もつかの間、いろいろあって最近また perl に戻ってきました。

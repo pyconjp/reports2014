@@ -172,6 +172,19 @@ PyCon JPにおいては、今回からスタッフになりました :-)
 - Twitter: `@liulang24 <https://twitter.com/liulang24>`_
 - Facebook: `Lang Liu <https://www.facebook.com/liulang.24>`_
 
+真嘉比 愛(マカビ アイ)
+==============================
+
+.. image:: /_static/amacbee.png
+   :width: 200
+
+株式会社adingoに所属。PyLadies Tokyo創設者。
+普段は広告のログ解析の仕事に従事してます。
+
+- Twitter: `@a_macbee <https://twitter.com/a_macbee>`_
+- Facebook: `真嘉比 愛 <https://www.facebook.com/ai.makabi>`_
+
+
 メディアチーム
 --------------
 

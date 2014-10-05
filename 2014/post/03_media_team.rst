@@ -178,7 +178,7 @@ CfPについては、以下の方法で告知しました。
 
 .. raw:: html
 
-    <iframe src="http://www.slideshare.net/ryu22e/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+   <iframe src="//www.slideshare.net/slideshow/embed_code/35700843" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/ryu22e/ansible-lt" title="PyCon JP 2014開催します！ #ansibleja" target="_blank">PyCon JP 2014開催します！ #ansibleja</a> </strong> from <strong><a href="http://www.slideshare.net/ryu22e" target="_blank">Ryuji Tsutsui</a></strong> </div>
 
 チュートリアル・一般参加チケット販売の件は以下の手段で告知しました。
 

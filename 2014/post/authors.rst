@@ -182,7 +182,7 @@ IT系イベントサービス connpass.com のリードエンジニア。 使っ
 他に Goや、Haskellや、クラウドサーバー系 (Docker, Ansibleなど)や、コミュニティの構築に
 興味を持っています。
 
-- Twitter: `@IanMLewis <https://twitter.com/IanMLewis`_
+- Twitter: `@IanMLewis <https://twitter.com/IanMLewis>`_
 - Blog: `www.ianlewis.org <http://www.ianlewis.org/>`_
 
 筒井 隆次（ツツイ リュウジ）

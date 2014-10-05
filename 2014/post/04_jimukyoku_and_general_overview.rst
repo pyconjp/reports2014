@@ -65,9 +65,29 @@ Tシャツの胸の箇所は「中秋の名月」イメージです。9月開催
 
 また、 `スポンサー <https://pycon.jp/2014/sponsors/>`_ 企業の皆様にとってニーズが高い、リクルーティングにフォーカスした「 `ジョブフェア <https://pycon.jp/2014/jobfair/>`_ 」という新たな取り組みも今年は行いました。
 
-.. warning::
+.. figure:: /_static/sponsor_booth1.jpg
+   :width: 400
+   :alt: スポンサーブースの様子1
 
-   スポンサーブース、ジョブフェアの写真がほしい(たかのり)
+   スポンサーブースの様子1
+
+.. figure:: /_static/sponsor_booth2.jpg
+   :width: 400
+   :alt: スポンサーブースの様子2
+
+   スポンサーブースの様子2
+
+.. figure:: /_static/job_fair1.jpg
+   :width: 400
+   :alt: ジョブフェアーの様子1
+
+   ジョブフェアーの様子1
+
+.. figure:: /_static/job_fair2.jpg
+   :width: 400
+   :alt: ジョブフェアーの様子2
+
+   ジョブフェアーの様子2
 
 よかったこと
 --------------

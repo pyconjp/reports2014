@@ -324,12 +324,14 @@ PyCon JP 2014に来場している参加者はプログラマーが中心で、�
 .. figure:: /_static/party1.jpg
     :width: 400
     :target: https://www.flickr.com/photos/pyconjp/15254785081
+    :alt: パーティの様子1
 
     パーティの様子1
 
 .. figure:: /_static/party2.jpg
     :width: 400
     :target: https://www.flickr.com/photos/pyconjp/15254785521
+    :alt: パーティの様子2
 
     パーティの様子2
 
@@ -348,12 +350,14 @@ PyCon JP 2014に来場している参加者はプログラマーが中心で、�
 .. figure:: /_static/snacks1.jpg
     :width: 400
     :target: https://www.flickr.com/photos/pyconjp/15071249589
+    :alt: おやつのカステラ
 
     おやつのカステラ
 
 .. figure:: /_static/snacks2.jpg
     :width: 400
     :target: https://www.flickr.com/photos/pyconjp/15297229675
+    :alt: おやつを囲んで談笑する参加者たち
 
     おやつを囲んで談笑する参加者たち
 

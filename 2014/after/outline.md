@@ -30,7 +30,7 @@
 
 ### PyNES: Python programming for Nintendo 8 bits. (en)
 
-### Python + Hive on AWS EMRで貧者のログ集計 (ja)
+### Improving code quality through static analysis for Python (en)
 
 ### データ分析の世界へようこそ！ ～マーケティングに活かせるPythonライブラリ～ (ja)
 

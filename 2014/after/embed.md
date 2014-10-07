@@ -60,3 +60,50 @@ https://github.com/shinji071/PyCon2014
 
 動画
 <iframe width="560" height="315" src="//www.youtube.com/embed/ZsIRpfbVeRY?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+## OpenCVのpythonインターフェース入門
+
+資料
+http://nbviewer.ipython.org/github/payashim/tutorial-opencv-python-pyconjp2014/blob/master/pyconjp2014_payashim.ipynb
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/cOwuKSTVB7g?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+## PyNES: Python programming for Nintendo 8 bits.
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/h3E2U4hdDeE?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+## Improving code quality through static analysis for Python
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/7cJoFMEMXyI?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+## データ分析の世界へようこそ！ ～マーケティングに活かせるPythonライブラリ～
+
+スライド
+<iframe src="//www.slideshare.net/slideshow/embed_code/39060540" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/iktakahiro/python-pyconjp-2014" title="マーケティングに活かせるPythonライブラリ PyConJP 2014" target="_blank">マーケティングに活かせるPythonライブラリ PyConJP 2014</a> </strong> from <strong><a href="http://www.slideshare.net/iktakahiro" target="_blank">Takahiro Ikeuchi</a></strong> </div>
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/su2UE9bbTvE?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+
+## Pythonではじめる野球プログラミング
+
+スライド
+<iframe src="//www.slideshare.net/slideshow/embed_code/39061157" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/shinyorke/python-39061157" title="Pythonではじめる野球プログラミング PyCon JP 2014 9/14 Talk Session" target="_blank">Pythonではじめる野球プログラミング PyCon JP 2014 9/14 Talk Session</a> </strong> from <strong><a href="http://www.slideshare.net/shinyorke" target="_blank">Shinichi Nakagawa</a></strong> </div>
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/7NS1CwzlFS8?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+
+## パッケージングの今
+
+スライド
+<iframe src="//www.slideshare.net/slideshow/embed_code/39068785" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/aodag/ss-39068785" title="パッケージングの今" target="_blank">パッケージングの今</a> </strong> from <strong><a href="http://www.slideshare.net/aodag" target="_blank">Atsushi Odagiri</a></strong> </div>
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/1gi76p5oxu8?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
+
+
+

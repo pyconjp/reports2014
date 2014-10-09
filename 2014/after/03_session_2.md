@@ -32,9 +32,8 @@ Hayashi氏は現在大学院にて機械学習の画像認識の研究をして�
 * IPython Notebookによる全ての結果のノート保存、共有 
 * Scikit-learn, pandasなど機会学習、データサイエンスとの相性も良い
 
-次に実際にOpenCVによる画像データに関する説明になり、OpenCVで読み込んだ画像データはnumpy配列になると説明しました。numpy配列になると色々なライブラリとの連携も簡単にできるので、メリットが大きいと感じました。
-実際のデモでは、画像処理の基礎的な処理である、ガウシアンブラー、エッジ検出の例を説明していました。
-
+次にOpenCVによる画像データに関する説明になり、OpenCVで読み込んだ画像データはnumpyの配列になると説明しました。numpy配列になると色々なライブラリとの連携も簡単にできるので、メリットが大きいと感じました。
+実際のデモでは、基本的な画像処理であるガウシアンブラー、エッジ検出などの使用例と、画像認識の背景差分、人検出の使用例について説明していました。OpenCVにはあらかじめ色々な関数が用意されているので、デモで見たような処理は比較的簡単にできる事がわかりました。
 
 
 ![Masaki Hayashi氏](https://farm4.staticflickr.com/3858/15110598479_2e41c306bb_z.jpg)
@@ -42,16 +41,7 @@ Masaki Hayashi氏 (c) PyCon JP
 
 ## PyNES: Python programming for Nintendo 8 bits.
 
-次にHiroki KIYOHARA氏によるDjangoアプリケーションのパフォーマンスチューニングのセッションを紹介します。KIYOHARA氏は、業務においても100万ユーザーを超えるサイトの構築、運用経験があり、またDjango本体へも貢献しているそうです。Djangoの勉強会なども開催しており、昨年のPyCon APAC 2013でのトークセッションでも発表を行いました。
-このセッションでは主に、Djangoアプリケーションの高速化とパフォーマンス測定ツールについて発表していました。
-
-
-![Hiroki KIYOHARA氏（１）](https://farm4.staticflickr.com/3853/15257611232_4de5d669cc_z.jpg)
-Hiroki KIYOHARA氏（１） (c) PyCon JP
-
-
-![Hiroki KIYOHARA氏（１）](https://farm6.staticflickr.com/5570/15297337985_6ce293b04b_z.jpg)
-Hiroki KIYOHARA氏（１） (c) PyCon JP
+次にGuto Maia氏によるPyNES: Python programming for Nintendo 8 bitsのセッションを紹介します。Maia氏はブラジルから来日したようで、まず冒頭でブラジルのPythonのコミュニティイベントである、[PythonBrazil](http://2014.pythonbrasil.org.br)について紹介を行いました。今年のPythonBrazilはビーチの近くで開催されるとの事でした。
 
 最初にDjangoアプリを高速化するためのポイントとして、次の項目をあげ１つづつ解説を行いました。
 
@@ -102,8 +92,8 @@ Hiroki KIYOHARA氏（１） (c) PyCon JP
 * セッション付きのシナリオ
 * 静的ファイルの自動取得
 
-![Hiroki KIYOHARA氏（２）](https://farm4.staticflickr.com/3920/15234908786_09c1e988fd_z.jpg)
-Hiroki KIYOHARA氏（２） (c) PyCon JP
+![Guto Maia氏](https://farm4.staticflickr.com/3853/15257611232_4de5d669cc_z.jpg)
+Guto Maia氏（１） (c) PyCon JP
 
 
 ## Improving code quality through static analysis for Python

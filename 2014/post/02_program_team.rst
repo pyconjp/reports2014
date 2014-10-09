@@ -77,8 +77,17 @@ PyCon JP 2014 のテーマは、「Pythonで再発見」でした。
 内容は、それぞれ、興味深い内容でした。
 興味のある方は、以下より確認できます。
 
-- `Kenneth Reitz <https://www.youtube.com/watch?v=9oJXzlmGJKc&list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5>`_
-- `Hirokazu Nishio <https://www.youtube.com/watch?v=3AVt6A7qaOg&list=UUxNoKygeZIE1AwZ_NdUCkhQ>`_
+Kenneth Reitz
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="//www.youtube.com/embed/9oJXzlmGJKc?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5" frameborder="0" allowfullscreen></iframe>
+
+Hirokazu Nishio
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="//www.youtube.com/embed/3AVt6A7qaOg?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
 
 両日、オープニングキーノートの講演で始まり、1日がスタートする PyCon JP が無事終了でき、参加者にとって有意義な時間になったことだと思っています。
 

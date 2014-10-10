@@ -69,11 +69,6 @@ http://nbviewer.ipython.org/github/payashim/tutorial-opencv-python-pyconjp2014/b
 動画
 <iframe width="560" height="315" src="//www.youtube.com/embed/cOwuKSTVB7g?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
 
-## PyNES: Python programming for Nintendo 8 bits.
-
-動画
-<iframe width="560" height="315" src="//www.youtube.com/embed/h3E2U4hdDeE?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
-
 ## Improving code quality through static analysis for Python
 
 動画
@@ -95,15 +90,5 @@ http://nbviewer.ipython.org/github/payashim/tutorial-opencv-python-pyconjp2014/b
 
 動画
 <iframe width="560" height="315" src="//www.youtube.com/embed/7NS1CwzlFS8?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
-
-
-## パッケージングの今
-
-スライド
-<iframe src="//www.slideshare.net/slideshow/embed_code/39068785" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/aodag/ss-39068785" title="パッケージングの今" target="_blank">パッケージングの今</a> </strong> from <strong><a href="http://www.slideshare.net/aodag" target="_blank">Atsushi Odagiri</a></strong> </div>
-
-動画
-<iframe width="560" height="315" src="//www.youtube.com/embed/1gi76p5oxu8?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
-
 
 

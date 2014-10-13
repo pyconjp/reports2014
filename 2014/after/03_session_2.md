@@ -10,25 +10,26 @@ Hayashi氏は現在大学院にて機械学習の画像認識の研究をして�
 ![Masaki Hayashi氏](https://farm4.staticflickr.com/3858/15110598479_2e41c306bb_z.jpg)
 Masaki Hayashi氏 (c) PyCon JP
 
-まずは導入部分で、Computer Visionについての説明を行いました。Computer Visionとは次のようなものであることを解説し、またComputer Visionのサンプル動画を紹介してとてもわかりやすく説明していました。
-
 ### Computer Visionとは？
+
+まずは導入部分で、Computer Visionについての説明を行いました。Computer Visionとは次のようなものであることを解説し、またComputer Visionのサンプル動画を紹介してとてもわかりやすく説明していました。
 
 * カメラで撮影した画像、動画、デプス（Kinect）などから実世界の様子を計算機で（できれば自動的に）把握する技術分野
 * 画像認識、画像処理、3D復元などををひっくるめてComputer Visionと呼ぶ
 
-次にOpenCVの概要ついて次の項目をあげて説明を行いました。OpenCVをPythonから使用する場合の主要モジュールや、応用モジュールについて詳しく解説を行いました。
-
 ### OpenCVの概要
+
+次にOpenCVの概要ついて次の項目をあげて説明を行いました。OpenCVをPythonから使用する場合の主要モジュールや、応用モジュールについて詳しく解説を行いました。
 
 * C++言語向けのComputer Vision大規模ライブラリ
 * Python、Javaなどのラッパーも標準提供されている
 * 画像処理、動画像入出力、顔検出などComputer Visionの基本的な道具がそろっている
 * 最新バージョンはOpenCV2.4.9
 
-またC++ではなくPythonを利用するメリットとして、次のような特徴を挙げて解説を行いました。特にインタラクティブに実行して、すぐ結果をみて試せるというのは非常に大きな利点があると感じました。
 
 ### PythonでOpenCVを使うメリット
+
+またC++ではなくPythonを利用するメリットとして、次のような特徴を挙げて解説を行いました。特にインタラクティブに実行して、すぐ結果をみて試せるというのは非常に大きな利点があると感じました。
 
 * NumPyやSciPyとの連携
 * C++と違ってインタラクティブに、実験的に実行できる（IPythonも使用できる）
@@ -46,10 +47,10 @@ Masaki Hayashi氏 (c) PyCon JP
 ![Daniel Izquierdo氏](https://farm6.staticflickr.com/5562/15071449128_1451c74114_z.jpg)
 Daniel Izquierdo氏 (c) PyCon JP
 
+### Why static analysis?
+
 まずはなぜstatic analysisが必要なのかについて、次の項目をあげて説明を行いました。static analysisを行う事によって、プログラムを走らせたり、テストするとのは違った問題が発見できると説明しました。
 色々な側面からコードを改善する事ができるので、是非機会があれば使用して見たいと思いました。
-
-### Why static analysis?
 
 * Find errors.
 * Find security issues.
@@ -59,9 +60,10 @@ Daniel Izquierdo氏 (c) PyCon JP
 * Enforce coding style.
 * Calculate code metrics.
 
-次にPythonでのstatic analysisのツールについてサンプルを交えながら解説しました。Pylintの使用例を元に実際のコードと、解析結果を提示してわかりやすく説明していました。
 
 ### Popular static analysis tools for Python
+
+次にPythonでのstatic analysisのツールについてサンプルを交えながら解説しました。Pylintの使用例を元に実際のコードと、解析結果を提示してわかりやすく説明していました。
 
 * [Pylint](https://pypi.python.org/pypi/pylint)
 * [Pyflakes](https://pypi.python.org/pypi/pyflakes)
@@ -79,36 +81,36 @@ Daniel Izquierdo氏 (c) PyCon JP
 ![Takahiro Ikeuchi氏（１）](https://farm4.staticflickr.com/3868/15297539462_f76efc3586_z.jpg)
 Takahiro Ikeuchi氏 (c) PyCon JP
 
+### なぜデータ分析か？
+
 LT終了後に、まずは簡単な自己紹介を行いIkeuchi氏はデータ分析やマーケティングを仕事で行っていると説明しました。またマーケティングの定義を簡単に説明し、マーケティングには色々な解釈があることや、マーケティングの事例としてのオバマの選挙を紹介していました。
 なぜデータ分析が必要かについては次のような特徴を挙げて説明を行いました。またPythonをデータ分析のツールとして活用する事をお勧めしていました。
-
-### なぜデータ分析か？
 
 * 正しい現状認識
 * 再現性のある打ち手
 * 施策の客観的な評価
 
-次にマーケティングに活用できる、実際のPythonのライブラリの紹介になりました。まずは標準ライブラリであるitertoolとCollectionsの説明を行いました。permutationsやCounterの使用方法など、コード例を元に解説しました。
-またPython3.4から追加されたstatistics moduleを使用することで、平均、中央値、分散など一般的な統計情報が簡単に計算できると説明しました。アソシーエーション分析や、共起頻度、レコメンデーションなどのわかりやすいサンプルを元にライブラリの活用方法を説明しました。
 
 ### ライブラリ
+
+次にマーケティングに活用できる、実際のPythonのライブラリの紹介になりました。まずは標準ライブラリであるitertoolとCollectionsの説明を行いました。permutationsやCounterの使用方法など、コード例を元に解説しました。
+またPython3.4から追加されたstatistics moduleを使用することで、平均、中央値、分散など一般的な統計情報が簡単に計算できると説明しました。アソシーエーション分析や、共起頻度、レコメンデーションなどのわかりやすいサンプルを元にライブラリの活用方法を説明しました。
 
 * [itertool](https://docs.python.org/3.4/library/itertools.html)
 * [Collections](http://docs.python.jp/3.4/library/collections.html)
 * [statistics module](https://docs.python.org/3/library/statistics.html)
 
-次に[NumPy](http://www.numpy.org)についての説明となりました。行列についての演算が簡単にできること、また偏差値計算の例を挙げて説明していました。
-
 ### NumPyとは
+
+次に[NumPy](http://www.numpy.org)についての説明となりました。行列についての演算が簡単にできること、また偏差値計算の例を挙げて説明していました。
 
 * 高速な行列計算のできる数値計算ライブラリ
 * 和、積、スカラー倍、転置行列などが出来る
 * pandasなども内部で使用している
 
-次に[pandas](http://pandas.pydata.org)と[SciPy](http://www.scipy.org)の説明になりました。pandasを用いるとデータ操作を簡単に行う事ができ、またデータ入出力のための、I/Oが非常に充実していると話しました。pandasを使用すると基本統計量なども取得する事ができるようです。
-SciPyでは距離計算などの説明をして、レーダーチャートやクラスタリングの例を紹介しました。
-
 ### pandasとは
+
+次に[pandas](http://pandas.pydata.org)pandasを用いるとデータ操作を簡単に行う事ができ、またデータ入出力のための、I/Oが非常に充実していると話しました。pandasを使用すると基本統計量なども取得する事ができるようです。
 
 * データの操作を容易に行える（read_csv、head/tail、merge、describe)
 * 直感的な操作ができる
@@ -116,23 +118,28 @@ SciPyでは距離計算などの説明をして、レーダーチャートやク
 
 ### SciPyとは
 
+次に[SciPy](http://www.scipy.org)には次のような特徴があると説明し、レーダーチャートやクラスタリングの例を紹介しました。
+
 * 高度な科学計算ライブラリ
 * 統計、距離計算から幾何学変換など
 
-次に[scikit-learn](http://scikit-learn.org/stable/)についての説明となりました。scikit-learnは機会学習のライブラリであり、マーケティングにおいて適用できる事例の紹介をしました。手法と分析の例を挙げておりとても興味深い内容でした。
 
 ### scikit-learnとは
+
+次に[scikit-learn](http://scikit-learn.org/stable/)についての説明となりました。scikit-learnは機会学習のライブラリであり、マーケティングにおいて適用できる事例の紹介をしました。手法と分析の例を挙げておりとても興味深い内容でした。
 
 * 機械学習のライブラリ
 * 日本語の情報はまだ少なめ
 
+### matplotlibとは
+
 最後にデータの可視可についてのお話となりました。データをビジュアライズする分野は注目度が高く、JavaScriptの[D3.js](http://d3js.org)などが有名であると説明しました。
 そしてPythonのライブラリである[matplotlib](http://matplotlib.org)について紹介し、実際にIPython上でデモを行いました。
 
-### matplotlibとは
-
 * ビジュアライズのためのモジュール
 * IPythonと組み合わせると便利
+
+データ分析の分野でのPythonライブラリを一通り学べることが出来て非常に楽しいセッションでした。また実際のマーケティングの事例を元にしたデモだったので、活用方法を具体的にイメージする事ができました。今後こういう分野でもPythonの活用事例が増えていくのではないかと思います。
 
 ## Pythonではじめる野球プログラミング
 
@@ -144,27 +151,28 @@ Shinichi Nakagawa氏 (c) PyCon JP
 まずは元となるデータがどこから取得できるかについて説明を行いました。基本的には公式サイトなどからデータを取得することは難しく、個人で公開している[SeanLahman.com](http://www.seanlahman.com/baseball-archive/statistics/)からMLBデータを取得して活用したとお話しました。
 実際に取得できるデータには1871年〜2013年までのMLB選手、および球団のデータが含まれていると説明しました。
 
-その後実際のサービスを開発するに当たっての、サーバー構築方法について解説しました。実際のサーバー構築の際はvagrantやchefを利用したそうです。取得したデータの投入については[sqlacodegen](https://pypi.python.org/pypi/sqlacodegen)からModelコードの自動生成を行い、選手および球団のデータを20〜30個位のテーブルに入れたとのことでした。
-
 ### sqlacodegenとは
+
+次に実際のサービスを開発するに当たっての、サーバー構築方法について解説しました。実際のサーバー構築の際はvagrantやchefを利用したそうです。取得したデータの投入については[sqlacodegen](https://pypi.python.org/pypi/sqlacodegen)からModelコードの自動生成を行い、選手および球団のデータを20〜30個位のテーブルに入れたとのことでした。
 
 * DBのスキーマからSQLAlchemyのModelコードを自動生成
 * MySQLやPostgreSQLに対応
 
+### アプリの構成
+
 次にDjangoでのアプリ解説についてのお話となりました。フレームワークにはDjango、テンプレートにはBootstrap、グラフや分布図用のJavaScriptライブラリとしてmorris.js、HIGHCHARTSなどを使用したと説明しました。
 JavaScriptライブラリは使用した事が無かったので、今度機会があれば試してみたいと思います。
-
-### アプリの構成
 
 * Python3.4 + Django1.7
 * [Bootstrap](http://getbootstrap.com)
 * [morris.js](http://morrisjs.github.io/morris.js/)
 * [HIGHCHARTS](http://www.highcharts.com/)
 
-次に野球の指標について解説し、実際のデモを交えながら説明していました。次の項目にあげた、BABIPと打率の比較についてイチロー選手の例を紹介し、実際にグラフを見ながら解説をしました。
-次にピタゴラス勝率と実際の勝率の相関図を表示し、アスレチックスなどの例を挙げ説明しました。実際の勝率とピタゴラス勝率がとても近い場合があること、またその逆もあるという事は興味深かったです。
 
 ### 野球の指標
+
+次に野球の指標について解説し、実際のデモを交えながら説明していました。次の項目にあげた、BABIPと打率の比較についてイチロー選手の例を紹介し、実際にグラフを見ながら解説をしました。
+次にピタゴラス勝率と実際の勝率の相関図を表示し、アスレチックスなどの例を挙げ説明しました。実際の勝率とピタゴラス勝率がとても近い場合があること、またその逆もあるという事は興味深かったです。
 
 * BABIP（本塁打を除くグランド内に飛んだ打球が安打になった割合）
 * ピタゴラス勝率（得点と失点が等しいときの勝率は5割であるという仮説に基づき生み出された指標、予想勝率を算出する）
@@ -178,4 +186,4 @@ JavaScriptライブラリは使用した事が無かったので、今度機会�
 
 * [PYCON JP 2014 発表資料一覧](https://pycon.jp/2014/reports/slides/)
 
-第4回ではPyCon JP 2014のキーノート、セッション以外の内容をまとめてレポートします。
+第4回ではPyCon JP 2014のキーノート、トークセッション以外の内容をまとめてレポートします。

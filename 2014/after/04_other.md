@@ -1,0 +1,144 @@
+# PyCon JP 2014参加レポート（第4回）
+
+PyCon JP 2014参加レポート第4回は、キーノート、トークセッション以外の内容を中心にお届けします。
+
+### チュートリアル
+
+カンファレンス前日の9月12日(金)にPythonに関する有料の[チュートリアル](https://pycon.jp/2014/tutorials/)が開催されました。今年は次の様なテーマが設けられ、50名以上の方が参加しました。
+
+* チュートリアルA - サーチエンジンを作りながら学ぶソフトウェアツールプログラミング（講師: 磯 蘭水さん）
+* チュートリアルB - Python基礎研修（講師: 清水川 貴之さん）
+* チュートリアルC - PyData入門（講師: 池内 孝啓さん）
+
+![チュートリアルAの様子](https://farm4.staticflickr.com/3859/15029299550_cbcc848754_z.jpg)
+チュートリアルAの様子 (c) PyCon JP
+
+![チュートリアルBの様子](https://farm4.staticflickr.com/3897/15029412087_6d87d8988b_z.jpg)
+チュートリアルBの様子 (c) PyCon JP
+
+![チュートリアルCの様子](https://farm4.staticflickr.com/3925/15029399527_5fcb49304d_z.jpg)
+チュートリアルCの様子 (c) PyCon JP
+
+私も実際にチュートリアルAに参加させて頂きましたが、ソフトウェアツールを作るための概念を基本から、応用まで解説して頂きとても有意義な内容でした。4時間という時間でしたが、本当にあっという間に過ぎていきました。もし機会があれば来年も是非参加したいと思います。
+
+### コミュニティブース、ランチディスカッション
+
+一日目のランチの時間にコミュニティブースが開催されました。コミュニティブースには次のコミュニティの方々が参加していました。参加者の方は興味のあるコミュニティのブースに立ちより、一緒にランチを食べながら楽しそうにお話をしていました。普段はあまり会う事の出来ないコミュニティの方とお話できる機会があり楽しかったです。
+
+* [Sphinx-users.jp](http://sphinx-users.jp/)
+* [Python ボルダリング部](http://kabepy.connpass.com/)
+* [Python mini Hack-a-thon(#pyhack)](http://pyhack.connpass.com/)
+* [pylonsproject.jp](http://pylonsproject.jp/)
+* [Gentoo-JP](http://www.gentoo.gr.jp/)
+
+![コミュニティブースの様子](https://farm6.staticflickr.com/5551/15257508452_6f67c12c67_z.jpg)
+コミュニティブースの様子 (c) PyCon JP
+
+また併設してランチディスカッションが行われました。ランチディスカッションではテーマ別の席を設けてあり、参加者の方は興味のあるテーマに関してランチを食べながらお話していました。
+
+![ランチディスカッションの様子](https://farm4.staticflickr.com/3925/15109139899_6ca869f65b_z.jpg)
+ランチディスカッションの様子 (c) PyCon JP
+
+
+### パーティ
+
+![パーティの様子（１）](https://farm6.staticflickr.com/5581/15050836278_9a83cec664_z.jpg)
+パーティの様子（１） (c) PyCon JP
+
+![パーティの様子（２）](https://farm4.staticflickr.com/3865/15050863258_8a383616f5_z.jpg)
+パーティの様子（２） (c) PyCon JP
+
+![パーティの様子（３）](https://farm6.staticflickr.com/5590/15050521468_ec219c2bfa_z.jpg)
+パーティの様子（３） (c) PyCon JP
+
+### ポスターセッション
+
+2日目のランチ前の時間に[ポスターセッション](https://pycon.jp/2014/schedule/posters/list/)が開催されました。この時間はトークセーションは開催されず参加者の方は、自分の好きなブースに立ちより、ゆっくりと参加する事が出来ました。
+
+![ポスターセッションの様子（１）](https://farm6.staticflickr.com/5575/15235022246_a4d188654f_z.jpg)
+ポスターセッションの様子（１） (c) PyCon JP
+
+![ポスターセッションの様子（２）](https://farm6.staticflickr.com/5565/15110941599_0f6a2c48ea_z.jpg)
+ポスターセッションの様子（２） (c) PyCon JP
+
+![ポスターセッションの様子（３）](https://farm4.staticflickr.com/3851/15110981699_1c97a6f5a5_z.jpg)
+ポスターセッションの様子（３） (c) PyCon JP
+
+ポスターセッションでは、発表者の方が実際に展示物の前に立ち、参加者の皆さんに熱心に説明していました。私もいくつかのポスターセッションに参加しましたが、実際に開発されてる方と直接お話できて、とても良い機会になりました。またトークセッションでは、デモなどが難しい展示物などもポスターセッションだと見る事が出来たので、その点も素晴らしいと思いました。
+
+インタービュー動画も公開されていますので、是非ご覧下さい。
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/Qc2PlpmB3SE?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5" frameborder="0" allowfullscreen></iframe>
+
+### ジョブフェア
+
+2日目のランチ前の時間にポスターセッションと併設して開催されました。[ジョブフェア](https://pycon.jp/2014/jobfair/)では **『Let’s know about other JOBs!!　〜開発の裏側、ココだけの話、こっそり教えます〜』** というテーマでパネルディスカッションが行われました。
+パネルディスカッションでは次の５名の方が登壇し、技術選定や、開発ツールについてディスカッションを行いました。
+
+* ヴェッテル　CEO　山下英孝氏
+* 白ヤギコーポレーション　CEO　柴田暁氏
+* VOYAGE GROUP　CTO　小賀昌法氏
+* モバイルファクトリー　リードエンジニア　佐藤健太氏
+* リアルグローブ　CEO　大畑貴弘氏
+
+![ジョブフェアの様子（１）](https://farm3.staticflickr.com/2941/15110225710_1f3139a491_z.jpg)
+ジョブフェアの様子（１） (c) PyCon JP
+
+![ジョブフェアの様子（２）](https://farm4.staticflickr.com/3875/15111061439_42ce75174a_z.jpg)
+ジョブフェアの様子（２） (c) PyCon JP
+
+技術選定やツールの選択に関しても各社の考え方に違いがあり、とても参考になりました。個人的には佐藤健太氏の技術提案や新しいツールなどを試す事は積極的に行い、導入に関してはメリットとデメリットを明確に分けて、慎重に判断しているというお話に共感しました。
+普段はあまり聞く事が出来ない開発ツールに関するディスカッションを聞く事ができて良かったです。
+
+### LT
+
+カンファレンスの1日目、2日目の夕方にライトニングトークがが開催されました。9月13日は5名、9月14日は7名の方が登壇し、様々な話題についてライトニングトークでお話していました。
+
+* 1日目(https://pycon.jp/2014/reports/slides/#lighting-talks)
+* 2日目(https://pycon.jp/2014/reports/slides/#lightning-talks)
+
+![LTの様子（１）](https://farm4.staticflickr.com/3859/15059102847_4e1c46c3c3_z.jpg)
+LTの様子（１） (c) PyCon JP
+
+![LTの様子（１）](https://farm4.staticflickr.com/3844/15254788101_f756ff63f5_z.jpg)
+LTの様子（１） (c) PyCon JP
+
+
+![LTの様子（１）](https://farm6.staticflickr.com/5578/15257994755_d71222857e_z.jpg)
+LTの様子（１） (c) PyCon JP
+
+![LTの様子（２）](https://farm4.staticflickr.com/3875/15111061439_42ce75174a_z.jpg)
+LTの様子（２） (c) PyCon JP
+
+![LTの様子（３）](https://farm4.staticflickr.com/3844/15257997735_e0c1905ea1_z.jpg)
+LTの様子（３） (c) PyCon JP
+
+### クロージング
+
+
+![クロージングの様子（３）](https://farm6.staticflickr.com/5582/15071303670_16280dde6d_z.jpg)
+クロージングの様子（３） (c) PyCon JP
+
+![クロージングの様子（３）](https://farm6.staticflickr.com/5567/15110943560_83ce1d693b_z.jpg)
+クロージングの様子（３） (c) PyCon JP
+
+![クロージングの様子（３）](https://farm6.staticflickr.com/5588/15297639415_4aa979917f_z.jpg)
+クロージングの様子（３） (c) PyCon JP
+
+### スプリント
+
+カンファレンスの次の日である9月15日(月)に開発スプリントが開催されました。開発スプリントはハッカソンに似たイベントで、スプリントリーダーがテーマを出して、参加者は興味があるテーマに参加して、もくもく開発するというイベントです。
+テーマとしては、Django、PylonsなどのWebアプリケーションフレームワークから、Micro Pythonなど多岐に渡り、それぞれ楽しんで開発を行いました。私は参加出来なかったのですが、最後に簡単な成果発表も行われたようです。
+
+![スプリントの様子（１）](https://farm4.staticflickr.com/3871/15088038839_a9b7cf034c_z.jpg)
+スプリントの様子（１） (c) PyCon JP
+
+![スプリントの様子（２）](https://farm4.staticflickr.com/3906/15274588162_a46ed20649_z.jpg)
+スプリントの様子（２） (c) PyCon JP
+
+![スプリントの様子（３）](https://farm6.staticflickr.com/5590/15251973846_556bbd494d_z.jpg)
+スプリントの様子（３）(c) PyCon JP
+
+### まとめ
+
+第4回ではPyCon JP 2014のキーノート、トークセッション以外の内容をまとめてレポートします。

@@ -1,6 +1,6 @@
 # PyCon JP 2014参加レポート - アウトライン
 
-9月12日（金）～15日（月）の4日間にかけて開催されたPyCon JP 2014の模様を3回にわたってレポートします。
+9月12日（金）～15日（月）の4日間にかけて開催されたPyCon JP 2014の模様を4回にわたってレポートします。
 
 ## 第1回
 
@@ -27,8 +27,6 @@
 ## 2日目セッション
 
 ### OpenCVのpythonインターフェース入門 (ja)
-
-### PyNES: Python programming for Nintendo 8 bits. (en)
 
 ### Improving code quality through static analysis for Python (en)
 

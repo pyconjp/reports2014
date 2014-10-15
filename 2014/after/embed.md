@@ -92,3 +92,8 @@ http://nbviewer.ipython.org/github/payashim/tutorial-opencv-python-pyconjp2014/b
 <iframe width="560" height="315" src="//www.youtube.com/embed/7NS1CwzlFS8?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
 
 
+## ポスターセッション
+
+動画
+<iframe width="560" height="315" src="//www.youtube.com/embed/Qc2PlpmB3SE?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5" frameborder="0" allowfullscreen></iframe>
+

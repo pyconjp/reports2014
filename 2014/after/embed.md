@@ -97,3 +97,10 @@ http://nbviewer.ipython.org/github/payashim/tutorial-opencv-python-pyconjp2014/b
 動画
 <iframe width="560" height="315" src="//www.youtube.com/embed/Qc2PlpmB3SE?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5" frameborder="0" allowfullscreen></iframe>
 
+## ライトニングトーク
+
+動画（1日目）
+<iframe width="560" height="315" src="//www.youtube.com/embed/pRlD17EkuNw?list=PLMkWB0UjwFGm4Ao5w2CKv24tl_Op_kxs5" frameborder="0" allowfullscreen></iframe>
+
+動画（2日目）
+<iframe width="560" height="315" src="//www.youtube.com/embed/gPpbW9NOQuA?list=UUxNoKygeZIE1AwZ_NdUCkhQ" frameborder="0" allowfullscreen></iframe>
